@@ -401,7 +401,7 @@ background: #FFFFFF !important;
 .banner {
   position: relative;
   width: 100% !important;
-  overflow: auto;
+  overflow: visible;
   font-size: 18px;
   line-height: 24px;
   text-align: center;
@@ -959,3 +959,31 @@ position: relative;
 right: 13px;
 top: 1px;
 }
+
+.button.first {
+  margin-right:20px;
+}
+
+@media screen and (max-width: 479px) {
+  .header-parallax h1 {
+    font-size: 2em;
+  }
+  .header-parallax p {
+    font-size: 1em;
+  }
+  .button.first {
+    margin-right:13px;
+  }
+  .button {
+    margin: 0 13px;
+    width: 75%;
+    padding: 15px 30px;
+  }
+  #contact p {
+    padding: 15px;
+  }
+  .w-nav {
+    margin-top: -75px;
+  }
+}
+
