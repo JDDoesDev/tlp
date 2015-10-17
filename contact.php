@@ -8,7 +8,7 @@ $subject = 'Message from a site visitor '.$field_name;
 
 $body_message = 'From: '.$field_name."\n";
 $body_message .= 'E-mail: contact@opendoorcoworking.com \n';
-$body_message .= 'Message: '.$field_message;
+$body_message .= 'Message: '.$field_message . 'From: ' . $field_email;
 
 $headers = 'From: '.$field_email."\r\n";
 $headers .= 'Reply-To: '.$field_email."\r\n";
