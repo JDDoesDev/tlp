@@ -467,7 +467,10 @@ background: #FFFFFF !important;
 
 .fixed-content {
   position: relative;
-  margin-top: 8em;
+  margin-top: 3em;
+  @media screen and (min-width: 479px) {
+    margin-top: 5em;
+  }
 }
 
 #rotate {
