@@ -126,11 +126,11 @@
                     <!-- START NAVIGATION LINKS -->
                     <nav class="w-nav-menu nav-menu" role="navigation">
 
-                      <a class="w-nav-link menu-li" href="#home">HOME</a>
-                      <a class="w-nav-link menu-li" href="index.html#learn">LEARN MORE</a>
-                      <a class="w-nav-link menu-li" href="index.html#membership">MEMBERSHIP</a>
-                      <a class="w-nav-link menu-li" href="index.html#contact">CONTACT</a>
-                      <a class="w-nav-link menu-li" href="http://gofund.me/technically-lp">SPONSOR</a>
+                      <a class="w-nav-link menu-li" href="#home" onclick="ga('send', 'event', 'menu', 'Click', 'Home');">HOME</a>
+                      <a class="w-nav-link menu-li" href="index.html#learn" onclick="ga('send', 'event', 'menu', 'Click', 'Learn More');">LEARN MORE</a>
+                      <a class="w-nav-link menu-li" href="index.html#membership" onclick="ga('send', 'event', 'menu', 'Click', 'Membership');">MEMBERSHIP</a>
+                      <a class="w-nav-link menu-li" href="index.html#contact" onclick="ga('send', 'event', 'menu', 'Click', 'Contact');">CONTACT</a>
+                      <a class="w-nav-link menu-li" href="http://gofund.me/technically-lp" onclick="ga('send', 'event', 'menu', 'Click', 'Sponsor');">SPONSOR</a>
 
                     </nav>
                     <!-- END NAVIGATION LINKS -->
@@ -165,7 +165,7 @@
                 <h1 class="underline animated fadeInDown">OPEN <strong>DOOR</strong> COWORKING</h1>
                 <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Work. <strong class="green">Together.</strong></h4>
                 <p>Coming soon to LaPorte, Indiana, a coworking space for everyone.  Not sure what coworking is?  <a href="#contact">Ask us.</a></p>
-                <a class="button animated fadeInUp delay-1s first" href="index.html#learn"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="index.html#contact">Get in Touch</a>
+                <a class="button animated fadeInUp delay-1s first" href="index.html#learn"onclick="ga('send', 'event', 'button', 'Click', 'Learn');"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="index.html#contact" onclick="ga('send', 'event', 'Button', 'Click', 'contact');">Get in Touch</a>
               </div>
             </div>
           </div>
@@ -461,7 +461,7 @@
                   <textarea class="w-input message" placeholder="Enter your Message Here" id="message" name="cf_message"></textarea>
                   <br>
 
-                  <input class="button medium" type="submit" value="Send">
+                  <input class="button medium" type="submit" value="Send" onclick="ga('send', 'event', 'contact', 'Click', 'Contact Submit');>
 
                 </form>
 
