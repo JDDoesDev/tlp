@@ -3,7 +3,7 @@ $field_name = $_POST['cf_name'];
 $field_email = $_POST['cf_email'];
 $field_message = $_POST['cf_message'];
 
-$mail_to = 'contact@opendoorcoworking.com';
+$mail_to = 'jd@opendoorcoworking.com';
 $subject = 'Message from a site visitor\: '.$field_name;
 
 $body_message = 'From: '.$field_name."\n";
@@ -24,7 +24,7 @@ if ($mail_status) { ?>
 }
 else { ?>
   <script language="javascript" type="text/javascript">
-    alert('Oops, something went wrong.  If it\'s not too much trouble, could you please send an email to contact@opendoorcoworking.com?');
+    alert('Oops, something went wrong.  If it\'s not too much trouble, could you please send an email to jd@opendoorcoworking.com?');
     window.location = 'index.html';
   </script>
 <?php
