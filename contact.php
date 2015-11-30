@@ -1,7 +1,9 @@
 <?php
+if ($_POST['cf_email'] && $_POST['cf_name'] ) {
 $field_name = $_POST['cf_name'];
 $field_email = $_POST['cf_email'];
-$field_message = $_POST['cf_message'];$version = $_POST['page-version'];
+$field_message = $_POST['cf_message'];
+$version = $_POST['page-version'];
 
 $mail_to = 'jd@opendoorcoworking.com';
 $subject = 'Message from a site visitor: '.$field_name;
@@ -28,5 +30,13 @@ else { ?>
     window.location = 'index.html';
   </script>
 <?php
-}
+}
+
+} else { ?>
+<script>
+   alert('Please fill out all fields');
+   window.location = 'index.html'
+</script>
+<?php
+}
 ?>
