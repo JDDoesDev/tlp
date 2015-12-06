@@ -1,6 +1,6 @@
 $(function () {
   var $form = $("#ajax-contact");
-  var $messages = $('#form-messages');
+  var $messages = $('.form-messages');
 
   $form.submit(function(e) {
     e.preventDefault();
@@ -13,7 +13,6 @@ $(function () {
     })
 
     .done(function(response) {
-      console.log(response);
       // Make sure that the formMessages div has the 'success' class.
       $messages.addClass('success');
       $messages.show();
