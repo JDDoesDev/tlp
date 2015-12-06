@@ -101,7 +101,7 @@ switch ($page) {
         "name": "Open Door Coworking",
         "url": "http://www.opendoorcoworking.com",
         "sameAs" : ["https://www.facebook.com/opendoorcoworking/", "http://twitter.com/opendoorcowork"],
-        "logo": "http://www.opendoorcoworking.com/images/opendoor.png",
+        "logo": "http://www.opendoorcoworking.com/images/opendoorcowork.png",
         "description": "Open Door Coworking is La Porte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters. Ready to join the coworking movement?  Work. Together.",
         "contactPoint": {
         "@type": "ContactPoint",
@@ -163,7 +163,7 @@ switch ($page) {
               <!-- START COLUMN 3 -->
               <div class="w-col w-col-3 logo">
                 <!-- START LOGO -->
-                <a href="#"><img src="images/opendoor.png" alt="Open Door Coworking" onload="ga('send', 'event', 'page', 'load', 'Version <?php print $version; ?>');"></a>
+                <a href="#"><img src="images/opendoorcowork.png" alt="Open Door Coworking" onload="ga('send', 'event', 'page', 'load', 'Version <?php print $version; ?>');"></a>
                 <!-- END LOGO -->
               </div><!-- END COLUMN 3 -->
 
