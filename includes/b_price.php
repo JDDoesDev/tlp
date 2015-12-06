@@ -76,6 +76,9 @@
                     24/7 Access
                   </li>
                   <li>
+                    Use any desk that isn't reserved
+                  </li>
+                  <li>
                     Use of conference room
                   </li>
                 </ul>

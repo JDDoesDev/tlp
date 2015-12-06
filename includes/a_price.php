@@ -78,6 +78,9 @@
                   <li>
                     Use of conference room
                   </li>
+                  <li>
+                    Use any desk that isn't reserved
+                  </li>
                 </ul>
               </div>
             </div>
