@@ -100,7 +100,7 @@ switch ($page) {
         "@type": "LocalBusiness",
         "name": "Open Door Coworking",
         "url": "http://www.opendoorcoworking.com",
-        "sameAs" : ["https://www.facebook.com/Open-Door-Coworking-1490264474609543/", "http://twitter.com/opendoorcowork"],
+        "sameAs" : ["https://www.facebook.com/opendoorcoworking/", "http://twitter.com/opendoorcowork"],
         "logo": "http://www.opendoorcoworking.com/images/opendoor.png",
         "description": "Open Door Coworking is La Porte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters. Ready to join the coworking movement?  Work. Together.",
         "contactPoint": {
@@ -138,7 +138,6 @@ switch ($page) {
         a.src = g;
         m.parentNode.insertBefore(a, m)
       })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
       ga('create', 'UA-69195133-1', 'auto');
       ga('send', 'pageview');
 
@@ -179,10 +178,21 @@ switch ($page) {
                     <!-- START NAVIGATION LINKS -->
                     <nav class="w-nav-menu nav-menu" role="navigation">
 
-                      <a class="w-nav-link menu-li" href="#home" onclick="ga('send', 'event', 'menu', 'Click', 'Home');">HOME</a>
+                      <a class="w-nav-link menu-li " href="#home" onclick="ga('send', 'event', 'menu', 'Click', 'Home');">HOME</a>
                       <a class="w-nav-link menu-li" href="index.html#learn" onclick="ga('send', 'event', 'menu', 'Click', 'Learn More');">LEARN MORE</a>
                       <a class="w-nav-link menu-li" href="index.html#membership" onclick="ga('send', 'event', 'menu', 'Click', 'Membership');">MEMBERSHIP</a>
-                      <a class="w-nav-link menu-li" href="index.html#contact" onclick="ga('send', 'event', 'menu', 'Click', 'Contact');">CONTACT</a>
+                      <a class="w-nav-link menu-li" href="index.html#contact" onclick="ga('send', 'event', 'menu', 'Click', 'Contact');">
+                        CONTACT
+                      </a>
+                      <a class="w-nav-link menu-li social-nav" href="http://www.facebook.com/opendoorcoworking" onclick="ga('send', 'event', 'menu', 'Click', 'Facebook');">
+                        <i class="facebookelegance-icons-"></i>
+                      </a>
+                      <a class="w-nav-link menu-li social-nav" href="http://www.twitter.com/opendoorcowork" onclick="ga('send', 'event', 'menu', 'Click', 'Twitter');">
+                          <i class="twitter-birdelegance-icons-"></i>
+                      </a>
+                      <a class="w-nav-link menu-li social-nav" href="https://www.linkedin.com/company/open-door-coworking" onclick="ga('send', 'event', 'menu', 'Click', 'Linkedin');">
+                        <i class="linkedinelegance-icons-"></i>
+                      </a>
 
                     </nav>
                     <!-- END NAVIGATION LINKS -->
@@ -329,15 +339,7 @@ switch ($page) {
               <div class="social-footter" style="display:none;">
                 <i class="facebookelegance-icons-"></i>
                 <i class="twitter-birdelegance-icons-"></i>
-                <i class="vimeoelegance-icons-"></i>
-                <i class="friendfeedelegance-icons-"></i>
-                <i class="deviantartelegance-icons-"></i>
-                <i class="lastfmelegance-icons-"></i>
                 <i class="linkedinelegance-icons-"></i>
-                <i class="picasaelegance-icons-"></i>
-                <i class="wordpresselegance-icons-"></i>
-                <i class="instagramelegance-icons-"></i>
-                <i class="tumblrelegance-icons-"></i>
               </div>
 
               <div class="w-form">

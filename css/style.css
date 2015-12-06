@@ -1012,3 +1012,19 @@ top: 1px;
 .subprice {
   display: block;
 }
+
+.social-nav {
+  font-size: 100%;
+  padding-left: 0;
+  padding-right: 0;
+}
+.social-nav i {
+  font-size: 100% !important;
+}
+@media screen and (max-width: 991px) {
+  .social-nav {
+    float: left;
+    width: 33%;
+    text-align: center;
+  }
+}
