@@ -381,6 +381,7 @@ background: #FFFFFF !important;
 .logo {
   margin-top: .5em;
   font-size: 1.5em;
+  float: left;
 }
 
 /***************************************************
@@ -435,7 +436,8 @@ background: #FFFFFF !important;
 }
 
 .banner img {
-  height: 60px;
+  height: auto;
+  margin-top: 6px;
 }
 
 .banner .dots {
@@ -994,7 +996,7 @@ top: 1px;
     padding: 15px;
   }
   .w-nav {
-    margin-top: -75px;
+  //  margin-top: -75px;
   }
 }
 
@@ -1027,4 +1029,7 @@ top: 1px;
     width: 33%;
     text-align: center;
   }
+
+.nav-col {
+  float: right;
 }

@@ -161,14 +161,14 @@ switch ($page) {
             <div class="w-row">
 
               <!-- START COLUMN 3 -->
-              <div class="w-col w-col-3 logo">
+              <div class=" w-col-3 logo">
                 <!-- START LOGO -->
                 <a href="#"><img src="images/opendoorcowork.png" alt="Open Door Coworking" onload="ga('send', 'event', 'page', 'load', 'Version <?php print $version; ?>');"></a>
                 <!-- END LOGO -->
               </div><!-- END COLUMN 3 -->
 
               <!-- START COLUMN 9 -->
-              <div class="w-col w-col-9">
+              <div class="nav-col w-col-9">
 
                 <!-- START NAVIGATION -->
                 <div class="w-nav navbar" data-collapse="medium" data-animation="default" data-duration="400" data-contain="1">
