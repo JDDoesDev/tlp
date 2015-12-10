@@ -404,7 +404,7 @@ switch ($page) {
 
     <div class="footer row-back">
       <div class="w-container wrap-normal center">
-        © <strong>Open Door Coworking</strong> 2015
+        © <strong>Open Door Coworking</strong> 2015 <a href="privacy.php" target="_blank">Privacy Policy</a>
       </div>
     </div>
 
