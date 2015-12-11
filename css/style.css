@@ -438,6 +438,7 @@ background: #FFFFFF !important;
 .banner img {
   height: auto;
   margin-top: 6px;
+  max-height: 40px;
 }
 
 .banner .dots {
@@ -977,7 +978,7 @@ top: 1px;
   margin-right:20px;
 }
 
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 769px) {
   .header-parallax h1 {
     font-size: 2em;
   }
@@ -1032,4 +1033,12 @@ top: 1px;
 
 .nav-col {
   float: right;
+}
+
+@media screen and (max-width: 768px) {
+  .w-nav-button {
+    position: absolute;
+    right: 0;
+    top: -60px;
+  }
 }
