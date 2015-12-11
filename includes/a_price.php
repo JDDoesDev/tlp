@@ -95,31 +95,20 @@
             <div class="pricing-section">
               <div class="pricing-header">
                 <h3>PRIVATE OFFICE</h3>
-
                 <span class="price">Only $325 / Month</span>
-
               </div>
-
               <div class="pricing-content">
-
                 <ul>
-
                   <li>
                     Separate office with access to coworking area
                   </li>
-
                   <li>
                     Keyed entry to office.  It's all yours.
                   </li>
-
                 </ul>
-
               </div>
-
             </div>
-
           </div>
-
         </div>
       </div>
       <a href="#contact" class="button member" onclick="ga('send', 'event', 'button', 'Click', 'become member a');">Schedule a visit</a>

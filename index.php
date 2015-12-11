@@ -2,20 +2,20 @@
 if (isset($_COOKIE['opendoor_page_version'])) {
   $page = $_COOKIE['opendoor_page_version'];
 } else {
-  $pages = array(1,2,3);
+  $pages = array(1, 2, 3);
   shuffle($pages);
   $page = $pages[0];
   $expire = time() + (60 * 60 * 24 * 3);
   setcookie('opendoor_page_version', $page, $expire);
 }
 switch ($page) {
-  case 1:
+  case 1 :
     $version = 'a';
     break;
-  case 2:
+  case 2 :
     $version = 'b';
     break;
-  case 3:
+  case 3 :
     $version = 'c';
     break;
 }
@@ -61,6 +61,7 @@ switch ($page) {
     <link rel="stylesheet" type="text/css" href="css/normal.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/headhesive.css">
+    <link rel="stylesheet" type="text/css" href="css/lightbox.css">
     <link href="css/animate.css" rel="stylesheet">
 
     <!-- END THEME STYLE -->
@@ -182,18 +183,10 @@ switch ($page) {
                       <a class="w-nav-link menu-li" href="index.html#learn" onclick="ga('send', 'event', 'menu', 'Click', 'Learn More');">LEARN MORE</a>
                       <a class="w-nav-link menu-li" href="index.html#amenities" onclick="ga('send', 'event', 'menu', 'Click', 'Benefits');">BENEFITS</a>
                       <a class="w-nav-link menu-li" href="index.html#membership" onclick="ga('send', 'event', 'menu', 'Click', 'Membership');">MEMBERSHIP</a>
-                      <a class="w-nav-link menu-li" href="index.html#contact" onclick="ga('send', 'event', 'menu', 'Click', 'Contact');">
-                        CONTACT
-                      </a>
-                      <a class="w-nav-link menu-li social-nav" href="http://www.facebook.com/opendoorcoworking" onclick="ga('send', 'event', 'menu', 'Click', 'Facebook');">
-                        <i class="facebookelegance-icons-"></i>
-                      </a>
-                      <a class="w-nav-link menu-li social-nav" href="http://www.twitter.com/opendoorcowork" onclick="ga('send', 'event', 'menu', 'Click', 'Twitter');">
-                          <i class="twitter-birdelegance-icons-"></i>
-                      </a>
-                      <a class="w-nav-link menu-li social-nav" href="https://www.linkedin.com/company/open-door-coworking" onclick="ga('send', 'event', 'menu', 'Click', 'Linkedin');">
-                        <i class="linkedinelegance-icons-"></i>
-                      </a>
+                      <a class="w-nav-link menu-li" href="index.html#contact" onclick="ga('send', 'event', 'menu', 'Click', 'Contact');"> CONTACT </a>
+                      <a class="w-nav-link menu-li social-nav" href="http://www.facebook.com/opendoorcoworking" onclick="ga('send', 'event', 'menu', 'Click', 'Facebook');"> <i class="facebookelegance-icons-"></i> </a>
+                      <a class="w-nav-link menu-li social-nav" href="http://www.twitter.com/opendoorcowork" onclick="ga('send', 'event', 'menu', 'Click', 'Twitter');"> <i class="twitter-birdelegance-icons-"></i> </a>
+                      <a class="w-nav-link menu-li social-nav" href="https://www.linkedin.com/company/open-door-coworking" onclick="ga('send', 'event', 'menu', 'Click', 'Linkedin');"> <i class="linkedinelegance-icons-"></i> </a>
 
                     </nav>
                     <!-- END NAVIGATION LINKS -->
@@ -285,6 +278,30 @@ switch ($page) {
     </div>
     <!--///////////////////////////////////////////////////////
 
+    // Pictures
+
+    //////////////////////////////////////////////////////////-->
+
+    <div id="pictures">
+      <div class="row-back">
+        <div class="w-container wrap">
+          <div class="center">
+            <h1 class="underline"> Look Inside Open Door Coworking </h1>
+            <p>
+              Something Something
+            </p>
+            <a href="images/slider/cowork1.jpg" data-lightbox="opendoor"><img src="images/slider/cowork1.jpg" height="25%" width="25%"></a>
+            <a href="images/slider/cowork2.jpg" data-lightbox="opendoor"><img src="images/slider/cowork2.jpg" height="25%" width="25%"></a>
+            <a href="images/slider/cowork3.jpg" data-lightbox="opendoor"><img src="images/slider/cowork3.jpg" height="25%" width="25%"></a>
+            <a href="images/slider/cowork4.jpg" data-lightbox="opendoor"><img src="images/slider/cowork4.jpg" height="25%" width="25%"></a>
+            <a href="images/slider/cowork5.jpg" data-lightbox="opendoor"><img src="images/slider/cowork5.jpg" height="25%" width="25%"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--///////////////////////////////////////////////////////
+
     // Our-plan section
 
     //////////////////////////////////////////////////////////-->
@@ -297,15 +314,25 @@ switch ($page) {
             Every membership comes with a few amenities to make your desk feel like home.
           </p>
           <ul>
-            <li>High-speed internet</li>
-            <li>Conference/meeting room access</li>
-            <li>Coffee</li>
-            <li>Member spotlight</li>
+            <li>
+              High-speed internet
+            </li>
+            <li>
+              Conference/meeting room access
+            </li>
+            <li>
+              Coffee
+            </li>
+            <li>
+              Member spotlight
+            </li>
           </ul>
         </div>
       </div>
     </div>
-<?php include("includes/". $version . "_price.php") ?>
+    <?php
+    include ("includes/" . $version . "_price.php");
+    ?>
     <!--///////////////////////////////////////////////////////
 
     // Contact section
@@ -338,7 +365,7 @@ switch ($page) {
                   <label for="message"></label>
                   <textarea class="w-input message" placeholder="Enter your Message Here" id="message" name="cf_message"></textarea>
                   <br>
-                  <input type="hidden" name="page_version" value="page <?php print $version;?>">
+                  <input type="hidden" name="page_version" value="page <?php print $version; ?>">
                   <input class="button medium" type="submit" value="Send" onclick="ga('send', 'event', 'contact', 'Click', 'Contact Submit');">
                 </form>
                 <div class="w-form-done">
@@ -381,7 +408,7 @@ switch ($page) {
     // End Footer section
 
     //////////////////////////////////////////////////////////-->
-    </div>
+
     <!-- START JQUERY PLUGINS LOAD -->
     <script src="js/jquery.js"></script>
     <script src="js/modernizr.js"></script>
@@ -396,8 +423,9 @@ switch ($page) {
     <script src="js/jquery.magnific-popup.js"></script>
     <script src="js/headhesive.min.js"></script>
     <script src="js/waypoints.min.js"></script>
-    <script src="js/scripts.js"></script>
     <script src="js/contact.js"></script>
+    <script src="js/lightbox-plus-jquery.min.js"></script>
+    <script src="js/scripts.js"></script>
 
     <!-- END JQUERY PLUGINS LOAD -->
 
