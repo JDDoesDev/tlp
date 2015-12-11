@@ -191,7 +191,7 @@ padding: 100px 0 60px;
 *******************************/
 
 .parallax-back {
-  background: url(../images/slider/background.jpg) no-repeat;
+  background: url(../images/back.png) no-repeat;
   background-size: cover;
   background-attachment: fixed;
   margin: auto;

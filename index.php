@@ -282,19 +282,16 @@ switch ($page) {
 
     //////////////////////////////////////////////////////////-->
 
-    <div id="pictures">
-      <div class="row-back">
+    <div id="pictures" class="parallax-back"  data-stellar-background-ratio="0.5">
+      <div class="opcaity">
         <div class="w-container wrap">
           <div class="center">
             <h1 class="underline"> Look Inside Open Door Coworking </h1>
-            <p>
-              Something Something
-            </p>
-            <a href="images/slider/cowork1.jpg" data-lightbox="opendoor"><img src="images/slider/cowork1.jpg" height="25%" width="25%"></a>
-            <a href="images/slider/cowork2.jpg" data-lightbox="opendoor"><img src="images/slider/cowork2.jpg" height="25%" width="25%"></a>
-            <a href="images/slider/cowork3.jpg" data-lightbox="opendoor"><img src="images/slider/cowork3.jpg" height="25%" width="25%"></a>
-            <a href="images/slider/cowork4.jpg" data-lightbox="opendoor"><img src="images/slider/cowork4.jpg" height="25%" width="25%"></a>
-            <a href="images/slider/cowork5.jpg" data-lightbox="opendoor"><img src="images/slider/cowork5.jpg" height="25%" width="25%"></a>
+            <a href="images/slider/cowork1.jpg" data-lightbox="opendoor"><img src="images/slider/cowork1.jpg" height="25%" width="25%" alt="a desk"></a>
+            <a href="images/slider/cowork2.jpg" data-lightbox="opendoor"><img src="images/slider/cowork2.jpg" height="25%" width="25%" alt="a desk"></a>
+            <a href="images/slider/cowork3.jpg" data-lightbox="opendoor"><img src="images/slider/cowork3.jpg" height="25%" width="25%" alt="conference room"></a>
+            <a href="images/slider/cowork4.jpg" data-lightbox="opendoor"><img src="images/slider/cowork4.jpg" height="25%" width="25%" alt="main entrance"></a>
+            <a href="images/slider/cowork5.jpg" data-lightbox="opendoor"><img src="images/slider/cowork5.jpg" height="25%" width="25%" alt="private office"></a>
           </div>
         </div>
       </div>
@@ -424,7 +421,7 @@ switch ($page) {
     <script src="js/headhesive.min.js"></script>
     <script src="js/waypoints.min.js"></script>
     <script src="js/contact.js"></script>
-    <script src="js/lightbox-plus-jquery.min.js"></script>
+    <script src="js/lightbox.min.js"></script>
     <script src="js/scripts.js"></script>
 
     <!-- END JQUERY PLUGINS LOAD -->
