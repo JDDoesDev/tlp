@@ -48,7 +48,7 @@ switch ($page) {
     <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6038992278492&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" />
     </noscript>
     <!-- START TITLE -->
-    <title>Open Door Coworking | Work. Together. LaPorte, IN 46350</title>
+    <title>Open Door Coworking | A coworking space for La Porte County</title>
     <!-- END TITLE -->
 
     <!-- START META, DESCRIPTION, KEYWORDS, AUTHOR -->
@@ -161,14 +161,14 @@ switch ($page) {
             <div class="w-row">
 
               <!-- START COLUMN 3 -->
-              <div class=" w-col-2 logo">
+              <div class="w-col w-col-2 logo">
                 <!-- START LOGO -->
                 <a href="#"><img src="images/opendoorcowork.png" alt="Open Door Coworking" onload="ga('send', 'event', 'page', 'load', 'Version <?php print $version; ?>');"></a>
                 <!-- END LOGO -->
               </div><!-- END COLUMN 3 -->
 
               <!-- START COLUMN 9 -->
-              <div class="nav-col w-col-10">
+              <div class="nav-col w-col w-col-10">
 
                 <!-- START NAVIGATION -->
                 <div class="w-nav navbar" data-collapse="medium" data-animation="default" data-duration="400" data-contain="1">
@@ -180,6 +180,7 @@ switch ($page) {
 
                       <a class="w-nav-link menu-li " href="#home" onclick="ga('send', 'event', 'menu', 'Click', 'Home');">HOME</a>
                       <a class="w-nav-link menu-li" href="index.html#learn" onclick="ga('send', 'event', 'menu', 'Click', 'Learn More');">LEARN MORE</a>
+                      <a class="w-nav-link menu-li" href="index.html#amenities" onclick="ga('send', 'event', 'menu', 'Click', 'Benefits');">BENEFITS</a>
                       <a class="w-nav-link menu-li" href="index.html#membership" onclick="ga('send', 'event', 'menu', 'Click', 'Membership');">MEMBERSHIP</a>
                       <a class="w-nav-link menu-li" href="index.html#contact" onclick="ga('send', 'event', 'menu', 'Click', 'Contact');">
                         CONTACT
@@ -219,15 +220,13 @@ switch ($page) {
 
       <div class="header-parallax" data-stellar-background-ratio="0.5">
         <div class="slidersection">
-
           <div class="overlay">
-
             <div class="center fixed-content">
               <div class="center-fix">
                 <h1 class="underline animated fadeInDown">OPEN <strong>DOOR</strong> COWORKING</h1>
                 <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Work. <strong class="green">Together.</strong></h4>
                 <p>
-                  LaPorte, Indiana's <strong>FIRST</strong> coworking space.  Not sure what coworking is? <a href="#contact" onclick="ga('send', 'event', 'button', 'Click', 'Ask us');">Ask us.</a>
+                  LaPorte, Indiana's <strong>FIRST</strong> coworking space.  Not sure what coworking is? <a href="#contact" onclick="ga('send', 'event', 'button', 'Click', 'Ask us');">Learn more</a>
                 </p>
                 <a class="button animated fadeInUp delay-1s first" href="index.html#learn" onclick="ga('send', 'event', 'button', 'Click', 'Learn');"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="index.html#contact" onclick="ga('send', 'event', 'Button', 'Click', 'contact');">Get in Touch</a>
               </div>
@@ -243,79 +242,69 @@ switch ($page) {
       //////////////////////////////////////////////////////////-->
 
       <div id="learn">
-
         <div class="row-back">
-
           <div class="w-container wrap">
-
             <div class="center">
-
               <h1 class="underline">BE INDEPENDENT, <span class="green">NOT ALONE</span></h1>
-
               <p>
                 A place to <strong> work, collaborate, and innovate.</strong>
               </p>
-
             </div>
-
             <div class="w-col w-col-4  ">
-
               <div class="icon-box">
-
                 <i class="fa fa-desktop"></i>
-
                 <h4 class="icons-heading">WORK</h4>
-
                 <p>
-                  <strong>Coworking</strong> helps you separate your home life from your work life, increasing productivity and reducing "bad" distractions.
+                  A <strong>coworking space</strong> helps you separate your home life from your work life, increasing productivity and reducing "bad" distractions.
                 </p>
-
               </div>
-
             </div>
-
             <div class="w-col w-col-4   delay-05s">
-
               <div class="icon-box">
-
                 <i class="fa fa-users"></i>
-
                 <h4 class="icons-heading">COLLABORATE</h4>
-
                 <p>
                   The coworking community is all about being independent together. Collaboration is easy when you're surrounded by great people.
                 </p>
-
               </div>
-
             </div>
-
             <div class="w-col w-col-4   delay-1s">
-
               <div class="icon-box">
-
                 <i class="fa fa-lightbulb-o"></i>
-
                 <h4 class="icons-heading">INNOVATE</h4>
-
                 <p>
                   Working from home is great, but it's easy to fall into a personal echo chamber. Innovation comes from being able to bounce ideas off one another.
                 </p>
-
               </div>
-
             </div>
-
             <h2>Still curious about what a coworking space is?</h2>
             <a href="#contact" class="button" onclick="ga('send', 'event', 'button', 'Click', 'learn contact');">Ask us</a>
           </div>
-
         </div>
-
       </div>
-
     </div>
+    <!--///////////////////////////////////////////////////////
 
+    // Our-plan section
+
+    //////////////////////////////////////////////////////////-->
+
+    <div id="amenities" class="row-gree">
+      <div class="w-container wrap-normal">
+        <div class="center">
+          <h1 class="underline">WHAT COMES WITH A MEMBERSHIP?</h1>
+          <p>
+            Every membership comes with a few amenities to make your desk feel like home.
+          </p>
+          <ul>
+            <li>High-speed internet</li>
+            <li>Conference/meeting room access</li>
+            <li>Coffee</li>
+            <li>Member spotlight</li>
+          </ul>
+        </div>
+      </div>
+    </div>
 <?php include("includes/". $version . "_price.php") ?>
     <!--///////////////////////////////////////////////////////
 
@@ -324,11 +313,9 @@ switch ($page) {
     //////////////////////////////////////////////////////////-->
 
     <div id="contact">
-
       <div class="parallax-back"  data-stellar-background-ratio="0.5">
         <div class="opcaity">
           <div class="w-container wrap">
-
             <div class="center">
               <h1 class="underline">GET IN TOUCH</h1>
               <p>
@@ -341,52 +328,34 @@ switch ($page) {
                 <i class="twitter-birdelegance-icons-"></i>
                 <i class="linkedinelegance-icons-"></i>
               </div>
-
               <div class="w-form">
                 <div class="form-messages"></div>
                 <form action="contact.php" method="post" id="ajax-contact">
-
                   <label for="name"></label>
-
                   <input class="w-input" type="text" id="name" placeholder="Enter your name" name="cf_name">
-
                   <label for="email"></label>
-
                   <input class="w-input" placeholder="Enter your email address" type="text"  id="email" name="cf_email" required="required">
-
                   <label for="message"></label>
                   <textarea class="w-input message" placeholder="Enter your Message Here" id="message" name="cf_message"></textarea>
                   <br>
-
                   <input type="hidden" name="page_version" value="page <?php print $version;?>">
                   <input class="button medium" type="submit" value="Send" onclick="ga('send', 'event', 'contact', 'Click', 'Contact Submit');">
-
                 </form>
-
                 <div class="w-form-done">
-
                   <p>
                     Thank you! Your submission has been received!
                   </p>
-
                 </div>
-
                 <div class="w-form-fail">
-
                   <p>
                     Oops! Something went wrong while submitting the form :(
                   </p>
-
                 </div>
-
               </div>
-
             </div>
-
           </div>
         </div>
       </div>
-
     </div>
     <div class="">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2983.212838619102!2d-86.73299968416507!3d41.60790897924461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8811126e3a8b8933%3A0xb288fc420895174!2sOpen+Door+Coworking!5e0!3m2!1sen!2sus!4v1447384166381" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -407,14 +376,12 @@ switch ($page) {
         © <strong>Open Door Coworking</strong> 2015 <a href="privacy.php" target="_blank">Privacy Policy</a>
       </div>
     </div>
-
     <!--///////////////////////////////////////////////////////
 
     // End Footer section
 
     //////////////////////////////////////////////////////////-->
     </div>
-
     <!-- START JQUERY PLUGINS LOAD -->
     <script src="js/jquery.js"></script>
     <script src="js/modernizr.js"></script>
@@ -435,5 +402,4 @@ switch ($page) {
     <!-- END JQUERY PLUGINS LOAD -->
 
   </body>
-
 </html>

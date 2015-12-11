@@ -1,32 +1,17 @@
 
-    <!--///////////////////////////////////////////////////////
 
-    // Our-plan section
+    <div id="membership" class="row-back center">
 
-    //////////////////////////////////////////////////////////-->
-
-    <div id="membership" class="row-gree">
-
-      <div class="w-container wrap-normal">
-
+      <div class="w-container wrapper">
         <div class="center">
 
           <h1 class="underline">MEMBERSHIP PLANS</h1>
 
           <p>
-            Introductory membership plans.
+            Early Adopter Memberships
           </p>
 
         </div>
-
-      </div>
-
-    </div>
-
-    <div class="row-back center">
-
-      <div class="w-container wrapper">
-
         <div class="pricing-table">
 
           <div class="w-col w-col-3  ">

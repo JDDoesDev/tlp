@@ -1,13 +1,8 @@
 
-    <!--///////////////////////////////////////////////////////
 
-    // Our-plan section
+    <div id="membership" class="row-back center">
 
-    //////////////////////////////////////////////////////////-->
-
-    <div id="membership" class="row-gree">
-
-      <div class="w-container wrap-normal">
+      <div class="w-container wrapper">
 
         <div class="center">
 
@@ -19,14 +14,6 @@
 
         </div>
 
-      </div>
-
-    </div>
-
-    <div class="row-back center">
-
-      <div class="w-container wrapper">
-
         <div class="pricing-table">
 
           <div class="w-col w-col-3  ">
@@ -37,7 +24,7 @@
 
                 <h3>PART TIME MEMBERSHIP</h3>
 
-                <span class="price"> Only $75 / Month</span>
+                <span class="price"> Only $55 / Month</span>
               </div>
 
               <div class="pricing-content">
@@ -68,7 +55,7 @@
             <div class="pricing-section">
               <div class="pricing-header">
                 <h3>FULL-TIME MEMBERSHIP</h3>
-                <span class="price">Only $125 / Month</span>
+                <span class="price">Only $100 / Month</span>
               </div>
               <div class="pricing-content">
                 <ul>
