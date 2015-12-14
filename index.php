@@ -323,6 +323,12 @@ switch ($page) {
             <li>
               Member spotlight
             </li>
+            <li>
+              Your business located within La Porte's Urban Enterprise Zone
+            </li>
+            <li>
+              A suite number for business mail
+            </li>
           </ul>
         </div>
       </div>

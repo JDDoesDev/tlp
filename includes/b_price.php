@@ -4,10 +4,10 @@
       <div class="w-container wrapper">
         <div class="center">
 
-          <h1 class="underline">MEMBERSHIP PLANS</h1>
+          <h1 class="underline">BECOME A MEMBER TODAY!</h1>
 
           <p>
-            Early Adopter Memberships
+            Discover how a coworking space can help you work better.  These special introductory membership rates are only available for a limited time.
           </p>
 
         </div>
@@ -52,7 +52,7 @@
             <div class="pricing-section">
               <div class="pricing-header">
                 <h3>FULL-TIME MEMBERSHIP</h3>
-                <span class="price">Only $75 / Month</span>
+                <span class="price">Only $80 / Month</span>
               </div>
               <div class="pricing-content">
                 <ul>
@@ -72,8 +72,8 @@
           <div class="w-col w-col-3  delay-05s">
             <div class="pricing-section">
               <div class="pricing-header">
-                <h3>FULL-TIME DESK</h3>
-                <span class="price">Only $200 / Month</span>
+                <h3>FULL-TIME RESERVED</h3>
+                <span class="price">Only $175 / Month</span>
               </div>
               <div class="pricing-content">
                 <ul>
