@@ -364,9 +364,9 @@
             <div class="center">
               <h1 class="underline">GET IN TOUCH</h1>
               <p>
-                Interested in joining <strong>OPEN DOOR COWORKING</strong> or have other questions?
+                Are you ready to schedule a tour or <strong>OPEN DOOR COWORKING</strong> or do you have other questions?
                 <br/>
-                Contact us and someone will get right back with you, usually within 24 hours.
+                Either call <a href="tel:+12195610219">219-561-0219</a> or fill out the contact form.
               </p>
               <div class="social-footter" style="display:none;">
                 <i class="facebookelegance-icons-"></i>
