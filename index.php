@@ -367,7 +367,7 @@
               <p>
                 Are you ready to schedule a tour or <strong>OPEN DOOR COWORKING</strong> or do you have other questions?
                 <br/>
-                Either call <a href="tel:+12195610219">219-561-0219</a> or fill out the contact form.
+                Either call <a href="tel:+12195610219">219-561-0219</a>, fill out the contact form, or just <a href="http://goo.gl/forms/ook9usnqsn" target="_blank" onclick="ga('send', 'event', 'menu', 'Click', 'Tour');">schedule a tour.</a>
               </p>
               <div class="social-footter" style="display:none;">
                 <i class="facebookelegance-icons-"></i>
