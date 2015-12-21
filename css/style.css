@@ -1042,3 +1042,11 @@ top: 1px;
     top: -60px;
   }
 }
+}
+#amenities li:before {
+  content: "\f00c";
+  float: left;
+  font-family: FontAwesome;
+  display: block;
+  padding-right: 4px;
+}

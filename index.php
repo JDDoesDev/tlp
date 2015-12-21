@@ -1,24 +1,24 @@
 <?php
-if (isset($_COOKIE['opendoor_page_version'])) {
-  $page = $_COOKIE['opendoor_page_version'];
-} else {
-  $pages = array(1, 2, 3);
-  shuffle($pages);
-  $page = $pages[0];
-  $expire = time() + (60 * 60 * 24 * 3);
-  setcookie('opendoor_page_version', $page, $expire);
-}
-switch ($page) {
-  case 1 :
-    $version = 'a';
-    break;
-  case 2 :
-    $version = 'b';
-    break;
-  case 3 :
-    $version = 'c';
-    break;
-}
+// if (isset($_COOKIE['opendoor_page_version'])) {
+  // $page = $_COOKIE['opendoor_page_version'];
+// } else {
+  // $pages = array(1, 2, 3);
+  // shuffle($pages);
+  // $page = $pages[0];
+  // $expire = time() + (60 * 60 * 24 * 3);
+  // setcookie('opendoor_page_version', $page, $expire);
+// }
+// switch ($page) {
+  // case 1 :
+    // $version = 'a';
+    // break;
+  // case 2 :
+    // $version = 'b';
+    // break;
+  // case 3 :
+    // $version = 'c';
+    // break;
+// }
 ?>
 <!DOCTYPE html>
 <html>
@@ -219,7 +219,8 @@ switch ($page) {
                 <h1 class="underline animated fadeInDown">OPEN <strong>DOOR</strong> COWORKING</h1>
                 <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Work. <strong class="green">Together.</strong></h4>
                 <p>
-                  LaPorte, Indiana's <strong>FIRST</strong> coworking space.  Not sure what coworking is? <a href="#contact" onclick="ga('send', 'event', 'button', 'Click', 'Ask us');">Learn more</a>
+                  La Porte, Indiana's <strong>FIRST</strong> coworking space.  Not sure what coworking is?
+                  <a href="#contact" onclick="ga('send', 'event', 'button', 'Click', 'Ask us');">Learn more</a>
                 </p>
                 <a class="button animated fadeInUp delay-1s first" href="index.html#learn" onclick="ga('send', 'event', 'button', 'Click', 'Learn');"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="index.html#contact" onclick="ga('send', 'event', 'Button', 'Click', 'contact');">Get in Touch</a>
               </div>
@@ -238,9 +239,9 @@ switch ($page) {
         <div class="row-back">
           <div class="w-container wrap">
             <div class="center">
-              <h1 class="underline">BE INDEPENDENT, <span class="green">NOT ALONE</span></h1>
+              <h1 class="underline">WORK INDEPENDENTLY <span class="green">TOGETHER</span></h1>
               <p>
-                A place to <strong> work, collaborate, and innovate.</strong>
+                <span class="green">Open Door Coworking</span> lets you get your business out of your home and into your very own workplace. Whether you're starting a business or working remotely for a company, you work better when you are able to concentrate on doing business.
               </p>
             </div>
             <div class="w-col w-col-4  ">
@@ -266,7 +267,7 @@ switch ($page) {
                 <i class="fa fa-lightbulb-o"></i>
                 <h4 class="icons-heading">INNOVATE</h4>
                 <p>
-                  Working from home is great, but it's easy to fall into a personal echo chamber. Innovation comes from being able to bounce ideas off one another.
+                  When you're at a coworking space, you're in an evironment that's designed to let you do the best work you can and innovate with minimal distractions.
                 </p>
               </div>
             </div>
@@ -308,9 +309,9 @@ switch ($page) {
         <div class="center">
           <h1 class="underline">WHAT COMES WITH A MEMBERSHIP?</h1>
           <p>
-            Every membership comes with a few amenities to make your desk feel like home.
+            Every membership comes with a few things to make your desk feel like home.
           </p>
-          <ul>
+          <ul class="w-col-6 w-col left">
             <li>
               High-speed internet
             </li>
@@ -324,17 +325,31 @@ switch ($page) {
               Member spotlight
             </li>
             <li>
-              Your business located within La Porte's Urban Enterprise Zone
+              A suite number for business mail
+            </li>
+          </ul>
+          <ul class="w-col-6 w-col left">
+            <li>
+              Networking events
             </li>
             <li>
-              A suite number for business mail
+              Location in La Porte's Urban Enterprise Zone
+            </li>
+            <li>
+              Member spotlight
+            </li>
+            <li>
+              Business listed on Members' Wall
+            </li>
+            <li>
+              Flexible membership terms
             </li>
           </ul>
         </div>
       </div>
     </div>
     <?php
-    include ("includes/" . $version . "_price.php");
+    include ("includes/a_price.php");
     ?>
     <!--///////////////////////////////////////////////////////
 
