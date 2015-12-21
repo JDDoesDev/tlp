@@ -309,7 +309,7 @@
         <div class="center">
           <h1 class="underline">WHAT COMES WITH A MEMBERSHIP?</h1>
           <p>
-            Every membership comes with a few things to make your desk feel like home.
+            Every membership comes with a few things to make it easier for you to <strongz>work better</strong>
           </p>
           <ul class="w-col-6 w-col left">
             <li>
