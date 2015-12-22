@@ -337,9 +337,6 @@
               Location in La Porte's Urban Enterprise Zone
             </li>
             <li>
-              Member spotlight
-            </li>
-            <li>
               Business listed on Members' Wall
             </li>
             <li>
