@@ -48,7 +48,7 @@
     <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6038992278492&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" />
     </noscript>
     <!-- START TITLE -->
-    <title>Open Door Coworking | La Porte and Michigan City's FIRST Coworking Space </title>
+    <title>Open Door Coworking | La Porte and Michigan City's FIRST Coworking Space</title>
     <!-- END TITLE -->
 
     <!-- START META, DESCRIPTION, KEYWORDS, AUTHOR -->
@@ -222,12 +222,12 @@
                 <p>
                   Be more creative, grow your business faster, and have a better work-life balance.
                 </p>
-                <a class="button animated fadeInUp delay-1s first" href="index.html#learn" onclick="ga('send', 'event', 'button', 'Click', 'Learn');"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="http://goo.gl/forms/ook9usnqsn" onclick="ga('send', 'event', 'Button', 'Click', 'tour');">Schedule a Tour</a>
+                <a class="button animated fadeInUp delay-1s first" href="index.html#learn" onclick="ga('send', 'event', 'button', 'Click', 'Learn');"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="http://goo.gl/forms/ook9usnqsn" target="_blank" onclick="ga('send', 'event', 'Button', 'Click', 'tour');">Schedule a Tour</a>
               </div>
             </div>
           </div>
         </div>
-      </div>http://goo.gl/forms/ook9usnqsn
+      </div>
 
       <!--///////////////////////////////////////////////////////
 
