@@ -220,10 +220,9 @@
                 <h1 class="underline animated fadeInDown">OPEN <strong>DOOR</strong> COWORKING</h1>
                 <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Work. <strong class="green">Together.</strong></h4>
                 <p>
-                  La Porte, Indiana's <strong>FIRST</strong> coworking space.  Not sure what coworking is?
-                  <a href="#learn" onclick="ga('send', 'event', 'button', 'Click', 'Ask us');">Learn more</a>
+                  La Porte, Indiana's <strong>FIRST</strong> coworking space. Be more creative, grow your business faster, and have a better work-life balance.
                 </p>
-                <a class="button animated fadeInUp delay-1s first" href="index.html#learn" onclick="ga('send', 'event', 'button', 'Click', 'Learn');"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="index.html#contact" onclick="ga('send', 'event', 'Button', 'Click', 'contact');">Get in Touch</a>
+                <a class="button animated fadeInUp delay-1s first" href="index.html#learn" onclick="ga('send', 'event', 'button', 'Click', 'Learn');"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="http://goo.gl/forms/ook9usnqsn" onclick="ga('send', 'event', 'Button', 'Click', 'tour');">Schedule a Tour</a>
               </div>
             </div>
           </div>
