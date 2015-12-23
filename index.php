@@ -48,7 +48,7 @@
     <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6038992278492&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" />
     </noscript>
     <!-- START TITLE -->
-    <title>Open Door Coworking | A coworking space for La Porte County</title>
+    <title>Open Door Coworking | La Porte and Michigan City's FIRST Coworking Space </title>
     <!-- END TITLE -->
 
     <!-- START META, DESCRIPTION, KEYWORDS, AUTHOR -->
@@ -220,8 +220,6 @@
                 <h1 class="underline animated fadeInDown">OPEN <strong>DOOR</strong> COWORKING</h1>
                 <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Work. <strong class="green">Together.</strong></h4>
                 <p>
-                  La Porte, Indiana's <strong>FIRST</strong> coworking space.
-                  <br/>
                   Be more creative, grow your business faster, and have a better work-life balance.
                 </p>
                 <a class="button animated fadeInUp delay-1s first" href="index.html#learn" onclick="ga('send', 'event', 'button', 'Click', 'Learn');"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="http://goo.gl/forms/ook9usnqsn" onclick="ga('send', 'event', 'Button', 'Click', 'tour');">Schedule a Tour</a>
