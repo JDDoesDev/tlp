@@ -348,7 +348,7 @@
               Business listed on Members' Wall
             </li>
             <li>
-              Flexible membership terms
+              No minimum membership term
             </li>
           </ul>
         </div>
