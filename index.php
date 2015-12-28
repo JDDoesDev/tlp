@@ -218,9 +218,18 @@
             <div class="center fixed-content">
               <div class="center-fix">
                 <h1 class="underline animated fadeInDown">OPEN <strong>DOOR</strong> COWORKING</h1>
-                <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Work. <strong class="green">Together.</strong></h4>
+                <!-- <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 10px;">Work. <strong class="green">Together.</strong></h4> -->
+                <p class="define">
+                  <span class="bold green">co·work·ing</span>
+                  <?php print htmlentities("(kōˈwərkiNG)"); ?></br>
+                  <span class="italic">noun</span></br>
+                </p>
+                <p class="definition">
+                  the use of an office or other working environment by people who are self-employed or working for different employers, typically so as to share equipment, ideas, and knowledge.</br>
+                </p>
                 <p>
-                  Be more creative, grow your business faster, and have a better work-life balance.
+                  The whole idea of coworking is to bring bright, creative people together and let the ideas collide
+                  <!-- Be more creative, grow your business faster, and have a better work-life balance. -->
                 </p>
                 <a class="button animated fadeInUp delay-1s first" href="index.html#learn" onclick="ga('send', 'event', 'button', 'Click', 'Learn');"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="http://goo.gl/forms/ook9usnqsn" target="_blank" onclick="ga('send', 'event', 'Button', 'Click', 'tour');">Schedule a Tour</a>
               </div>

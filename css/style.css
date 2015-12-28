@@ -204,7 +204,7 @@ padding: 100px 0 60px;
 }
 
 .header-parallax {
-  height: 580px;
+  height: 620px;
 }
 
 .header-parallax p {
@@ -473,7 +473,7 @@ background: #FFFFFF !important;
   position: absolute;
   width: 100%;
   top: 80px;
-  height: 580px;
+  height: 620px;
 }
 
 .fixed-content {
@@ -1049,4 +1049,32 @@ top: 1px;
   font-family: FontAwesome;
   display: block;
   padding-right: 4px;
+}
+
+.define, .definition {
+  margin: 0;
+  padding: 0 !important;
+  font-size: 15px !important;
+  width: 50%;
+  margin: auto;
+}
+
+.definition {
+  padding-bottom: 2em !important;
+}
+@media screen and (max-width: 991px) {
+  .define, .definition {
+    width: 100%;
+  }
+  .center-fix {
+    width: 95%;
+  }
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
 }
