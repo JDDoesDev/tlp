@@ -108,7 +108,7 @@
           </div>
         </div>
       </div>
-      <a href="#contact" class="button member" onclick="ga('send', 'event', 'button', 'Click', 'become member a');">Schedule a visit</a>
+      <a href="http://goo.gl/forms/ook9usnqsn" class="button member" onclick="ga('send', 'event', 'button', 'Click', 'become member a');">Schedule a visit</a>
 
     </div>
 
