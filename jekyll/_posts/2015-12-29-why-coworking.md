@@ -39,8 +39,10 @@ The majority of remote workers and freelancers that I knew told me about various
 
 I started looking and I found 2 within 40 miles of me.  One in the next county over to the east and the other in the next county over to the west, but none right here in La Porte County.  I decided to use my coffee shop experiences as market research and decided that this county could benefit from having a coworking space.  I'm obviously not the only telecommuter in town and I can guarantee that there are a lot more entrepreneurs and freelancers in La Porte and Michigan City than anyone might expect.  I was certain that a coworking space would be beneficial not only to me, but to the community in general.
 
-After a period of failed attempts to raise the money necessary to open a space, a property owner in La Porte came to the rescue.  He told me that he had a few larger offices that weren't being used, and as a startup success himself, he would like to pay it forward and made me a deal on a PERFECT location for what I was trying to attempt.  Thus, Open Door Coworking was born.
+After a period of failed attempts to raise the money necessary to open a space, a property owner in La Porte came to the rescue.  He told me that he had a few larger offices that weren't being used, and as a startup success himself, he would like to pay it forward and made me a deal on a PERFECT location for what I was trying to do.  Thus, Open Door Coworking was born.
 
 So far, the community leaders have been beyond helpful in getting the word out about the concept of coworking and the fact that there is a coworking space in La Porte County for all of the residents of the county.
+
+If you can imagine yourself in the position I was in, having a hard time separating work from home life, not getting as much done as you could be, or just wanting the feeling of working from a professional environment, please don't hesitate to schedule a [free day of coworking or just a tour](http://goo.gl/forms/ook9usnqsn).
 
 Next time: Just what is coworking?
