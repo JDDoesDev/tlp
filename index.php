@@ -312,7 +312,7 @@
 
     //////////////////////////////////////////////////////////-->
 
-    <div id="amenities" class="row-gree">
+    <div id="membership" class="row-gree">
       <div class="w-container wrap-normal">
         <div class="center">
           <h1 class="underline">WHAT COMES WITH A MEMBERSHIP?</h1>
