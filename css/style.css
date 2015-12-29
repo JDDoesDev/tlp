@@ -1097,7 +1097,11 @@ top: 1px;
   padding: 3px 0;
 }
 
-.post-meta .fa {
+.share-page .fa {
   font-size: 1em;
   padding: 0 .5em;
+}
+
+.share-page a:hover {
+  color: #48905B;
 }
