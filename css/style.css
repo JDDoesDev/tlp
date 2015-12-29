@@ -1096,3 +1096,7 @@ top: 1px;
   margin: 0;
   padding: 3px 0;
 }
+
+.post-meta .fa {
+  font-size: 1em;
+}
