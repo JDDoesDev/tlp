@@ -19,3 +19,4 @@ github_username:  jddoesdev
 
 # Build settings
 markdown: kramdown
+permalink: pretty
