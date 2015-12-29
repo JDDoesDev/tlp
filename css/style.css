@@ -1078,3 +1078,7 @@ top: 1px;
 .italic {
   font-style: italic;
 }
+
+.post-list {
+  padding-bottom: 20px;
+}

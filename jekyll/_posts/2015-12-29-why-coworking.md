@@ -15,6 +15,7 @@ One of the most common questions I get, next to "What is a coworking space?", is
 Please, come along and imagine yourself on my train of thought.  I'll try to do everything that I can to keep from derailing as I tell you my story.  It all started on a warm, summer day in 1982... Wait, that's a little _too_ far back.  Okay, when I first became a professional web developer (meaning taking it from a hobby to a paying job) I immediately began looking for work in Chicago.  In my eyes, traveling to the city every day was the only option.  There weren't a lot of web shops in the area and job postings for web developers were either grossly underpaid or non-existant.  I did a brief stint as a freelancer, but it just wasn't right for me, so Chicago it was.
 
 I landed a job for a media group as a PHP developer and I thought it would be _GREAT_, and it was for a while.  However, after the first few months of
+
 - getting up at 4:30 to get on the 5:30 train
 - spending 90 minutes on the train
 - walking the 6 blocks to the office from the station
