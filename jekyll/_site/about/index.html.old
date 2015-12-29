@@ -166,6 +166,7 @@
                       <a class="w-nav-link menu-li" href="/index.html#membership" onclick="ga('send', 'event', 'menu', 'Click', 'Membership');">MEMBERSHIP</a>
                       <a class="w-nav-link menu-li" href="/index.html#contact" onclick="ga('send', 'event', 'menu', 'Click', 'Contact');"> CONTACT </a>
                       <a class="w-nav-link menu-li" href="http://goo.gl/forms/ook9usnqsn" target="_blank" onclick="ga('send', 'event', 'menu', 'Click', 'Tour');"> SCHEDULE TOUR </a>
+                      <a class="w-nav-link menu-li" href="/blog" onclick="ga('send', 'event', 'menu', 'Click', 'Blog');"> BLOG </a>
                       <a class="w-nav-link menu-li social-nav" href="http://www.facebook.com/opendoorcoworking" onclick="ga('send', 'event', 'menu', 'Click', 'Facebook');"> <i class="facebookelegance-icons-"></i> </a>
                       <a class="w-nav-link menu-li social-nav" href="http://www.twitter.com/opendoorcowork" onclick="ga('send', 'event', 'menu', 'Click', 'Twitter');"> <i class="twitter-birdelegance-icons-"></i> </a>
                       <a class="w-nav-link menu-li social-nav" href="https://www.linkedin.com/company/open-door-coworking" onclick="ga('send', 'event', 'menu', 'Click', 'Linkedin');"> <i class="linkedinelegance-icons-"></i> </a>

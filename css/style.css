@@ -1082,3 +1082,17 @@ top: 1px;
 .post-list {
   padding-bottom: 20px;
 }
+
+.post ul {
+  padding-bottom: 20px;
+}
+
+.post p {
+  margin-bottom: 20px;
+}
+
+.blog-home {
+  font-size: .7em;
+  margin: 0;
+  padding: 3px 0;
+}
