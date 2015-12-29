@@ -16,8 +16,7 @@ layout: default
         </h2>
         <span class="tag-title green">Tagged with: </span>
         {% for categories in post.categories %}
-        {{forloop.length}}
-          <span>{{ categories }} {{forloop.index}} </span>
+          <span>{{ categories }} {% if forloop.index != forloop.length %} , {% endif %} </span>
         {% endfor %}
         <br>
         {{ post.excerpt }}
