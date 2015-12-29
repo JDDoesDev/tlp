@@ -14,10 +14,11 @@ layout: default
         <h2>
           <a class="post-link" href="..{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <h3>Tagged with: </h3>
+        <span class="tag-title green">Tagged with: </span>
         {% for categories in post.categories %}
           <span>{{ categories }}</span>
         {% endfor %}
+        <br>
         {{ post.excerpt }}
       </li>
     {% endfor %}
