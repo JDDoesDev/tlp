@@ -21,12 +21,14 @@ layout: default
             <img src="/images/thumb/opendoor_thumb.png" alt="Open Door Coworking">
           {% endif %}
         </div>
-        <span class="tag-title green">Tagged with: </span>
-        {% for categories in post.categories %}
-          <span>{{ categories }} {% if forloop.index != forloop.length %}, {% endif %} </span>
-        {% endfor %}
-        <br>
-        {{ post.excerpt }}
+        <div class="post-info w-col w-col-9">
+          <span class="tag-title green">Tagged with: </span>
+          {% for categories in post.categories %}
+            <span>{{ categories }} {% if forloop.index != forloop.length %}, {% endif %} </span>
+          {% endfor %}
+          <br>
+          {{ post.excerpt }}
+        </div>
       </li>
     {% endfor %}
   </ul>
