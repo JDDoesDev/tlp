@@ -1083,6 +1083,12 @@ top: 1px;
   padding-bottom: 20px;
 }
 
+.post-list li {
+  padding-top: 2em;
+}
+.post-list li:first-of-type {
+  padding-top: 0;
+}
 .post ul {
   padding-bottom: 20px;
 }
