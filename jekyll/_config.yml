@@ -19,3 +19,4 @@ author: J.D. Flynn
 # Build settings
 markdown: kramdown
 permalink: pretty
+comments: true
