@@ -5,12 +5,14 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title center underline" itemprop="name headline">{{ page.title }}</h1>
+  </header>
+    <div class="w-col-2 w-col-push-1">
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <a href="mailto:{{ site.email}}" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></a>{% endif %}
       {% include _share-page.html %}
       </p>
-  </header>
   <p class="blog-home"><a href="/blog"> &lt; Blog Home</a></p>
-  <div class="post-content" itemprop="articleBody">
+  </div>
+  <div class="post-content w-col-8" itemprop="articleBody">
     {{ content }}
   </div>
 
