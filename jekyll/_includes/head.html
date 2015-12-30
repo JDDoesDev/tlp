@@ -41,6 +41,7 @@
     <link href="/css/animate.css" rel="stylesheet">
 
     <!-- END THEME STYLE -->
+    <meta property="fb:admins" content="1821615255" />
 {% if page.categories %}
   {% for category in page.categories limit:1 %}
   <meta content="{{ category }}" property="article:section">
@@ -69,13 +70,13 @@
   <meta content="{{ site.description }}" property="og:description">
 {% endif %}
 {% if page.url %}
-  <meta content="{{ site.url }}{{site.baseurl }}{{ page.url }}" property="og:url">
+  <meta content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" property="og:url">
 {% endif %}
 {% if page.date %}
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
 {% endif %}
 {% if page.image %}
-  <meta content="{{ page.image }}" property="og:image">
+  <meta content="{{ site.url }}{{ page.image }}" property="og:image">
 {% else %}
   <meta content="/images/opendoor.png" property="og:image">
 {% endif %}
