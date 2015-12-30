@@ -4,6 +4,7 @@ title:  "What Exactly is 'Coworking'?"
 date:   2015-12-30 07:00:00 -0600
 categories: coworking
 author: "J.D. Flynn"
+excerpt: 'The most common response that I get when I tell people, "Hey, people, I just opened a coworking space for La Porte County!" is'
 ---
 <p class="center">
 <img src="/images/coworking-slap.jpg" alt="Batman gets it" class="top-image">
