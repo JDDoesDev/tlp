@@ -145,6 +145,10 @@
     </script>
     <meta property="fb:admins" content="1821615255" />
     <meta property="fb:app_id" content="1033170423401446" />
+    <meta content="Open Door Coworking" property="og:site_name">
+    <meta content="Open Door Coworking is LaPorte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone." property="og:description">
+    <meta content="http://www.opendoorcoworking.com/" property="og:url">
+    <meta content="http://www.opendoorcoworking.com/images/opendoor.png" property="og:image">
   </head><!-- END HEAD -->
   <body>
     <!-- START BODY TAG -->
