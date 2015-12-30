@@ -4,12 +4,9 @@ title:  "What Exactly is 'Coworking'?"
 date:   2015-12-30 07:00:00 -0600
 categories: coworking
 author: "J.D. Flynn"
-excerpt: 'The most common response that I get when I tell people, "Hey, people, I just opened a coworking space for La Porte County!" is'
+image: "/images/coworking-slap.jpg"
+imagealt: "Batman gets it"
 ---
-<p class="center">
-<img src="/images/coworking-slap.jpg" alt="Batman gets it" class="top-image">
-</p>
-
 The most common response that I get when I tell people, "Hey, people, I just opened a coworking space for La Porte County!" is "That's awesome!  Um... what's a coworking space?"
 
 While it's not entirely unexpected, it does sadden me to a point that something as amazing as coworking is such a foreign concept to the majority of the population.  An informal survey done by another coworking space owner found that roughly 10% of adults questioned had heard of a coworking space.  Of that 10%, only 3-4 people actually knew what a coworking space was or had a vague grasp of the concept.  The silver lining?  Most people wanted to know more about coworking spaces after they were told what it is.
