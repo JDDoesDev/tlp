@@ -11,7 +11,7 @@ layout: default
       <li style="clear: both;">
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2 class="w-col w-col-9 w-col-push-3">
+        <h2 class="w-col">
           <a class="post-link" href="..{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <div class="thumbnail-blog w-col w-col-3">
@@ -21,7 +21,7 @@ layout: default
             <img src="/images/thumb/opendoor_thumb.png" alt="Open Door Coworking">
           {% endif %}
         </div>
-        <div class="post-info w-col w-col-9">
+        <div class="post-info w-col w-col-9 left">
           <span class="tag-title green">Tagged with: </span>
           {% for categories in post.categories %}
             <span>{{ categories }} {% if forloop.index != forloop.length %}, {% endif %} </span>
