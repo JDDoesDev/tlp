@@ -1114,3 +1114,7 @@ top: 1px;
 .share-page a:hover {
   color: #48905B;
 }
+
+.excerpt-link {
+   color: #ecf0f1;
+}
