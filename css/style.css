@@ -1085,6 +1085,7 @@ top: 1px;
 
 .post-list li {
   padding-top: 2em;
+  padding-bottom: 2em;
 }
 .post-list li:first-of-type {
   padding-top: 0;
