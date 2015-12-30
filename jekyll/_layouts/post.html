@@ -13,6 +13,11 @@ layout: default
   <p class="blog-home"><a href="/blog"> &lt; Blog Home</a></p>
   </div>
   <div class="post-content w-col w-col-8" itemprop="articleBody">
+  {% if page.image %}
+    <p class="center">
+      <img src="{{ page.image }}" alt="{{ page.imagealt }}" class="top-image">
+    </p>
+  {% endif %}
     {{ content }}
   </div>
 {% if site.comments %}
