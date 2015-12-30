@@ -149,6 +149,14 @@
     <meta content="Open Door Coworking is LaPorte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone." property="og:description">
     <meta content="http://www.opendoorcoworking.com/" property="og:url">
     <meta content="http://www.opendoorcoworking.com/images/opendoor.png" property="og:image">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@opendoorcowork">
+    <meta name="twitter:creator" content="@jddoesdev">
+    <meta name="twitter:title" content="Open Door Coworking">
+    <meta name="twitter:url" content="http://www.opendoorcoworking.com/">
+    <meta name="twitter:description" content="Open Door Coworking is LaPorte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone.">
+    <meta name="twitter:image:src" content="http://www.opendoorcoworking.com/images/opendoor.png">
   </head><!-- END HEAD -->
   <body>
     <!-- START BODY TAG -->
