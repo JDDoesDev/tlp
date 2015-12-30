@@ -6,6 +6,7 @@ categories: coworking
 author: "J.D. Flynn"
 image: "/images/coworking-slap.jpg"
 imagealt: "Batman gets it"
+thumbnail: "/images/thumb/coworking-slap_thumb.jpg"
 ---
 The most common response that I get when I tell people, "Hey, people, I just opened a coworking space for La Porte County!" is "That's awesome!  Um... what's a coworking space?"
 

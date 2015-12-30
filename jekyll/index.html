@@ -14,6 +14,13 @@ layout: default
         <h2>
           <a class="post-link" href="..{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <div class="thumbnail-blog w-col w-col-3">
+          {% if post.thumbnail %}
+            <img src="{{ post.thumbnail }}" alt="{{ post.imagealt}}">
+          {% else %}
+            <img src="/images/thumb/opendoor_thumb.png" alt="Open Door Coworking">
+          {% endif %}
+        </div>
         <span class="tag-title green">Tagged with: </span>
         {% for categories in post.categories %}
           <span>{{ categories }} {% if forloop.index != forloop.length %}, {% endif %} </span>
