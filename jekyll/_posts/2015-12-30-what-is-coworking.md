@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Exactly is 'Coworking'?"
-date:   2015-12-30 12:00:00 -0600
+date:   2015-12-30 07:00:00 -0600
 categories: coworking
 author: "J.D. Flynn"
 ---
