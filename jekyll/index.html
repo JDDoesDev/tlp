@@ -8,10 +8,10 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
+      <li style="clear: both;">
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
+        <h2 class="w-col w-col-9 w-col-push-3">
           <a class="post-link" href="..{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <div class="thumbnail-blog w-col w-col-3">
