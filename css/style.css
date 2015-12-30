@@ -1084,8 +1084,8 @@ top: 1px;
 }
 
 .post-list li {
-  padding-top: 2em;
-  padding-bottom: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
   position: relative;
   overflow: hidden;
 }
