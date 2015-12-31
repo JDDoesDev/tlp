@@ -8,7 +8,7 @@
           <h1 class="underline">BECOME A MEMBER TODAY!</h1>
 
           <p>
-            Discover how a coworking space can help you work better.  These special introductory membership rates are only available for a limited time.
+            Discover how a coworking space can help you work better.  Act now, these special introductory rates are only available for a limited time.
           </p>
 
         </div>
