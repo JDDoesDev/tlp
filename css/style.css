@@ -74,6 +74,7 @@ a {
   cursor: pointer;
   color: #48A65B;
   text-decoration: none;
+  transition: all 0.4s ease-in-out;
 }
 
 
@@ -1111,7 +1112,8 @@ top: 1px;
   padding: 0 .25em;
 }
 
-.share-page a:hover {
+a:hover {
+  font-size: 1.2em;
   color: #48905B;
 }
 
