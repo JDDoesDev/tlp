@@ -1120,3 +1120,13 @@ a:hover {
 .excerpt-link {
    color: #ecf0f1;
 }
+
+.excerpt-link a:hover, .eventStuff a:hover {
+  transition: none;
+  font-size: 1em;
+}
+
+.eventInfo {
+  font-size: 0.9em;
+  font-style: italic;
+}

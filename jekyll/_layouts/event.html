@@ -39,18 +39,35 @@ layout: default
       </p>
   <p class=""><a href="{{ site.baseurl}}/events"> &lt; Back To Events</a></p>
   </div>
-  <div class="post-content w-col w-col-6">
+  <div class="post-content w-col w-col-8 eventStuff">
     <div class="startdate">
-      <span class="start">Start Time:</span> <br/>
+      <span class="eventInfo">Start Time:</span> <br/>
       {{ page.startdate | date: " %I:%M %p %b %-d, %Y" }}
     </div>
-    <div class="eventDescription">
-      Description
+    <div class="website">
+      <div class="eventInfo">
+        Website:
+      </div>
+      <a href="{{ page.eventurl }}">{{ page.name }}</a>
+    </div>
+    <div class="eventInfo">
+      Description:
     </div>
     {{ content }}
+    <div class="eventLocation">
+      <div class="eventInfo">
+        Location:
+      </div>
+      Open Door Coworking<br />
+      1705 State St Building A <br />
+      La Porte, IN 46350
+      <div class="directions">
+        Located near the corner of State St and Michael St in La Porte, IN.  Open Door Coworking is one building north of State St.  Parking is available off of Michael St in the marked spaces or between Open Door Coworking and Bevcan Printing.
+      </div>
+    </div>
   </div>
   {% if page.image %}
-    <p class="event w-col w-col-4">
+    <p class="event w-col w-col-2">
       <img src="{{ page.image }}" alt="{{ page.imagealt }}" class="top-image">
     </p>
   {% endif %}
