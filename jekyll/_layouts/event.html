@@ -24,7 +24,7 @@ layout: default
   },
   "offers": {
     "@type": "Offer",
-    "price": "{% if page.price %} {{ page.price }} {% else %} 0 {% endif %}"{% if page.eventurl %} , "url" : {{ page.eventurl }} {% endif %}
+    "price": "{% if page.price %} {{ page.price }} {% else %} 0 {% endif %}"{% if page.eventurl %} , "url" : "{{ page.eventurl }}" {% endif %}
   }
 }
  </script>
@@ -40,6 +40,9 @@ layout: default
   <p class=""><a href="{{ site.baseurl}}/events"> &lt; Back To Events</a></p>
   </div>
   <div class="post-content w-col w-col-6">
+    <div class="startdate">
+      {{ page.startdate | date: " %I:%M %p %b %-d, %Y" }}
+    </div>
     {{ content }}
   </div>
   {% if page.image %}
