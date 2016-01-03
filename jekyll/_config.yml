@@ -10,7 +10,7 @@
 title: Open Door Coworking
 email: jd@opendoorcoworking.com
 description: "Open Door Coworking is LaPorte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone."
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/posts" # the subpath of your site, e.g. /blog
 url: "http://www.opendoorcoworking.com" # the base hostname & protocol for your site
 twitter_username: jddoesdev
 github_username:  jddoesdev

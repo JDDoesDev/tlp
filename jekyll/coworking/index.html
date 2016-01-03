@@ -8,8 +8,7 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.categories == "event "%}
-      {% else %}
+      {% if post.categories contains "coworking" %}
       <li style="clear: both;">
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -28,11 +27,13 @@ layout: default
           {% endif %}
         </div>
         <div class="post-info w-col w-col-9 left">
-          <span class="tag-title green">Filed under: </span>
-          {% for categories in post.categories %}
-            <span>{{ categories }} {% if forloop.index != forloop.length %}, {% endif %} </span>
+          {% if post.tag %}
+          <span class="tag-title green">Tagged with: </span>
+          {% for tag in post.tag %}
+            {{ tag }} {% if forloop.index != forloop.length %}, {% endif %}
           {% endfor %}
           <br>
+          {% endif %}
           <a class="excerpt-link" href="..{{ post.url | prepend: site.baseurl }}">
             {{ post.excerpt }}
           </a>

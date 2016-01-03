@@ -10,7 +10,7 @@ layout: default
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} <br /> <a href="mailto:{{ site.email}}" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></a>{% endif %}
       {% include _share-page.html %}
       </p>
-  <p class="blog-home"><a href="/blog"> &lt; Blog Home</a></p>
+  <p class="blog-home"><a href="{{ site.baseurl }}"> &lt; Blog Home</a></p>
   </div>
   <div class="post-content w-col w-col-8" itemprop="articleBody">
   {% if page.image %}

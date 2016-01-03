@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<script type='application/ld+json'>
+{
+  "@context": "http://www.schema.org",
+  "@type": "Event",
+  "name": "{{ page.name }}",
+  "description": "{{ content | strip_html | strip_newlines | truncate: 160 }}",
+  "startDate": "{{ page.startdate | date_to_xmlschema }}",
+  "location": {
+    "@type": "Place",
+    "name": "Open Door Coworking",
+    "sameAs": "http://www.opendoorcoworking.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1705 State St",
+      "addressLocality": "LAPORTE",
+      "addressRegion": "IN",
+      "postalCode": "46350",
+      "addressCountry": "United States"
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "{% if page.price %} {{ page.price }} {% else %} 0 {% endif %}"{% if page.url%} , "url" : {{ page.url }} {% endif %}
+  }
+}
+ </script>
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title center underline">{{ page.name }}</h1>
+  </header>
+    <div class="w-col w-col-2">
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}">Posted: {{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} <br /> <a href="mailto:{{ site.email}}">by {{ page.author }}</a>{% endif %}
+      {% include _share-page.html %}
+      </p>
+  <p class=""><a href="{{ site.baseurl}}/events"> &lt; Back To Events</a></p>
+  </div>
+  <div class="post-content w-col w-col-6">
+    {{ content }}
+  </div>
+  {% if page.image %}
+    <p class="event w-col w-col-4">
+      <img src="{{ page.image }}" alt="{{ page.imagealt }}" class="top-image">
+    </p>
+  {% endif %}
+
+</article>
