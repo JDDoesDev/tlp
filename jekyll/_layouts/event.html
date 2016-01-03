@@ -41,7 +41,11 @@ layout: default
   </div>
   <div class="post-content w-col w-col-6">
     <div class="startdate">
+      <span class="start">Start Time:</span> <br/>
       {{ page.startdate | date: " %I:%M %p %b %-d, %Y" }}
+    </div>
+    <div class="eventDescription">
+      Description
     </div>
     {{ content }}
   </div>
