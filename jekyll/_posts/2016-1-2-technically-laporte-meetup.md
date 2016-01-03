@@ -2,10 +2,10 @@
 layout: event
 name:  "Technically La Porte Roundtable"
 date:   2016-1-2 07:00:00 -0600
-startdate: 2016-1-1 07:00:00 -0600
+startdate: 2016-1-13 07:00:00 -0600
 categories: events
 author: "J.D. Flynn"
-url: "http://www.meetup.com/Technically-LaPorte/events/227440162/"
+eventurl: "http://www.meetup.com/Technically-LaPorte/events/227440162/"
 permalink: /:categories/:year/:month/:title/
 ---
 
