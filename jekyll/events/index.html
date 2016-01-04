@@ -7,8 +7,8 @@ layout: default
   <h1 class="page-heading underline">OPEN DOOR COWORKING UPCOMING EVENTS</h1>
 
   <ul class="post-list">
-    {% assign sortedPosts = site.posts | sort 'startdate'  %}
-    {% for post in sortedPosts %}
+    {% assign sortedPosts = site.posts | sort 'startdate' %}
+    {% for post in sortedPosts reversed %}
       {% if post.categories contains "events" %}
        {% if site.time < post.startdate %}
       <li style="clear: both;">
