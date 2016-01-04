@@ -10,18 +10,30 @@
   <loc>http://www.opendoorcoworking.com/</loc>
 </url>
 <url>
-  <loc>http://www.opendoorcoworking.com/blog/</loc>
-  <lastmod>2015-12-30T13:54:57+00:00</lastmod>
+  <loc>http://www.opendoorcoworking.com/posts/</loc>
+  <lastmod>2016-01-04T03:48:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.opendoorcoworking.com/posts/events/</loc>
+  <lastmod>2016-01-04T03:48:30+00:00</lastmod>
 </url>
 <url>
   <loc>http://www.opendoorcoworking.com/privacy.php</loc>
 </url>
 <url>
-  <loc>http://www.opendoorcoworking.com/blog/coworking/2015/12/30/what-is-coworking/</loc>
-  <lastmod>2015-12-30T13:54:57+00:00</lastmod>
+  <loc>http://www.opendoorcoworking.com/posts/coworking/2015/12/30/what-is-coworking/</loc>
+  <lastmod>2016-01-04T03:48:30+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.opendoorcoworking.com/blog/coworking/2015/12/29/why-coworking/</loc>
-  <lastmod>2015-12-30T05:10:21+00:00</lastmod>
+  <loc>http://www.opendoorcoworking.com/posts/coworking/2015/12/29/why-coworking/</loc>
+  <lastmod>2016-01-04T03:48:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.opendoorcoworking.com/posts/events/2016/01/technically-laporte-meetup/</loc>
+  <lastmod>2016-01-04T03:48:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.opendoorcoworking.com/posts/events/2016/01/laporte-tabletop-gamers/</loc>
+  <lastmod>2016-01-04T03:48:30+00:00</lastmod>
 </url>
 </urlset>
