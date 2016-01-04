@@ -21,3 +21,5 @@ author: J.D. Flynn
 markdown: kramdown
 permalink: pretty
 comments: true
+exclude:
+  - .htaccess
