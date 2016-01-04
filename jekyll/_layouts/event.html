@@ -39,7 +39,7 @@ layout: default
       </p>
   <p class=""><a href="{{ site.baseurl}}/events"> &lt; Back To Events</a></p>
   </div>
-  <div class="post-content w-col w-col-8 eventStuff">
+  <div class="post-content w-col w-col-6 eventStuff">
     <div class="startdate">
       <span class="eventInfo">Start Time:</span> <br/>
       {{ page.startdate | date: " %I:%M %p %b %-d, %Y" }}
@@ -67,7 +67,7 @@ layout: default
     </div>
   </div>
   {% if page.image %}
-    <p class="event w-col w-col-2">
+    <p class="event-img w-col w-col-4">
       <img src="{{ page.image }}" alt="{{ page.imagealt }}" class="top-image">
     </p>
   {% endif %}

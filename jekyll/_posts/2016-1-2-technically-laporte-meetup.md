@@ -1,6 +1,6 @@
 ---
 layout: event
-name:  "Technically La Porte Roundtable"
+name:  "Technically LaPorte Roundtable"
 date:   2016-1-2 07:00:00 -0600
 startdate: 2016-1-13 19:00:00 -0600
 categories: events
