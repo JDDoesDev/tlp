@@ -1121,7 +1121,7 @@ a:hover {
    color: #ecf0f1;
 }
 
-.excerpt-link a:hover, .eventStuff a:hover {
+.excerpt-link:hover, .eventStuff a:hover {
   transition: none;
   font-size: 1em;
 }
