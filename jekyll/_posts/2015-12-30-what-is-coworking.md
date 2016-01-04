@@ -10,7 +10,7 @@ thumbnail: "/images/thumb/coworking-slap_thumb.jpg"
 ---
 The most common response that I get when I tell people, "Hey, people, I just opened a coworking space for La Porte County!" is "That's awesome!  Um... what's a coworking space?"
 
-While it's not entirely unexpected, it does sadden me to a point that something as amazing as coworking is such a foreign concept to the majority of the population.  An informal survey done by another coworking space owner found that roughly 10% of adults questioned had heard of a coworking space.  Of that 10%, only 3-4 people actually knew what a coworking space was or had a vague grasp of the concept.  The silver lining?  Most people wanted to know more about coworking spaces after they were told what it is.
+While it is not entirely unexpected, it does sadden me to a point that something as amazing as coworking is such a foreign concept to the majority of the population.  An informal survey done by another coworking space owner found that roughly 10% of adults questioned had heard of a coworking space.  Of that 10%, only 3-4 people actually knew what a coworking space was or had a vague grasp of the concept.  The silver lining?  Most people wanted to know more about coworking spaces after they were told what it is.
 
 So, what is coworking?  As the [front page](/index.html) of the site (copied from the Google definition) puts it:
 
