@@ -1140,5 +1140,18 @@ a:hover {
 }
 
 figure {
-  padding: 1em 0 1em 1em;
+  padding: 1em;
+}
+
+figure .float-left {
+  padding-left: 0;
+}
+
+figure .float-right {
+  padding-right: 0;
+}
+
+figcaption {
+  font-size: .7em;
+  font-style: italic;
 }
