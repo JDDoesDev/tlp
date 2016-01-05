@@ -1130,3 +1130,15 @@ a:hover {
   font-size: 0.9em;
   font-style: italic;
 }
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+figure {
+  padding: 1em 0 1em 1em;
+}
