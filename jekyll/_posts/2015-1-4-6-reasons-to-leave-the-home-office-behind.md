@@ -44,7 +44,7 @@ The time you have between your home and office, going either way, acts as kind o
 
 <h2 class="list-header">3. You get to dress the part</h2>
 
-That's right, ladies and gentlemen.  A coworking space means you ~~have to~~ get to put on clothes for the day.  For some people, working in their pajamas/underwear is great, but unfortunately it's looked down upon in public.  Personally, I think that a nice pair of jeans and a button front shirt or sweater makes great business casual, and I just _feel_ more professional when I'm not wearing a stained tee shirt and flannel pajama pants.  Sure, it sounds awesome to not have to get dressed or shower or brush your teeth or do laundry because nobody will see you for days, but if you have any sense of self worth you quickly find yourself questioning your choices in life and running for the nearest shower.
+That's right, ladies and gentlemen.  A coworking space means you <s>have to</s> get to put on clothes for the day.  For some people, working in their pajamas/underwear is great, but unfortunately it's looked down upon in public.  Personally, I think that a nice pair of jeans and a button front shirt or sweater makes great business casual, and I just _feel_ more professional when I'm not wearing a stained tee shirt and flannel pajama pants.  Sure, it sounds awesome to not have to get dressed or shower or brush your teeth or do laundry because nobody will see you for days, but if you have any sense of self worth you quickly find yourself questioning your choices in life and running for the nearest shower.
 
 Speaking of segues and other reasons to get cleaned up...
 
