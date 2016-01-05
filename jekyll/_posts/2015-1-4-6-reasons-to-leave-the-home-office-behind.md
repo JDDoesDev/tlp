@@ -9,9 +9,7 @@ imagealt: "What coworking space members think coworking is"
 thumbnail: "/images/coworking-is.png"
 ---
 
-I know what you're thinking... "My home office is just fine.  There's no reason that I should join a coworking space."
-
-You may be right, but imagine for a second what life might be outside of the house.  Really reflect on your current situation and ask yourself if you're really as productive as you could be while working in your underwear 50 paces from your bed.  Having a hard time picturing it?  No problem!  That's what this post is all about.
+I know what you're thinking... "My home office is just fine.  There's no reason that I should join a coworking space," and you may be right, but imagine for a second what life might be outside of the house.  Really reflect on your current situation and ask yourself if you're really as productive as you could be while working in your underwear 50 paces from your bed.  Having a hard time picturing it?  No problem!  That's what this post is all about.
 
 <h2 class="list-header"> 1. Distractions </h2>
 
