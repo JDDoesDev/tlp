@@ -1155,3 +1155,8 @@ figcaption {
   font-size: .7em;
   font-style: italic;
 }
+
+.w--nav-link-open {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
