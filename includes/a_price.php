@@ -50,7 +50,7 @@
             <div class="pricing-section">
               <div class="pricing-header">
                 <h3>HOTDESK</h3>
-                <span class="price">Only <del> $100 </del>&nbsp;$90 / Month</span>
+                <span class="price">Only <del> $100 </del>&nbsp;$80 / Month</span>
               </div>
               <div class="pricing-content">
                 <ul>
@@ -71,7 +71,7 @@
             <div class="pricing-section pricing-main">
               <div class="pricing-header header-main">
                 <h3>RESERVED DESK</h3>
-                <span class="price">Only <del> $200 </del>&nbsp;$190 / Month</span>
+                <span class="price">Only <del> $200 </del>&nbsp;$175 / Month</span>
               </div>
               <div class="pricing-content footer-main">
                 <ul>
@@ -92,7 +92,7 @@
             <div class="pricing-section">
               <div class="pricing-header">
                 <h3>PRIVATE OFFICE</h3>
-                <span class="price">Only <del> $375 </del>&nbsp;$365 / Month</span>
+                <span class="price">Only <del> $375 </del>&nbsp;$325 / Month</span>
               </div>
               <div class="pricing-content">
                 <ul>
