@@ -7,9 +7,9 @@ categories: events
 author: "J.D. Flynn"
 eventurl: "http://www.meetup.com/La-Porte-Tabletop-Gamers/events/227564660/"
 permalink: /:categories/:year/:month/:title/
-image: "/images/games.jpg"
+image: "//www.opendoorcoworking.com/images/games.jpg"
 imagealt: "Board games that everyone will love!"
-thumbnail: "/images/thumb/games_thumb.jpg"
+thumbnail: "//www.opendoorcoworking.com/images/thumb/games_thumb.jpg"
 
 ---
 

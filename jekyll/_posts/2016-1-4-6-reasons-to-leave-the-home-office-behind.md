@@ -4,9 +4,9 @@ title:  "6 Reasons to Leave the Home Office Behind"
 date:   2016-1-4 12:00:00 -0600
 categories: coworking
 author: "J.D. Flynn"
-image: "/images/coworking-is.png"
+image: "//www.opendoorcoworking.com/images/coworking-is.png"
 imagealt: "What coworking space members think coworking is"
-thumbnail: "/images/coworking-is.png"
+thumbnail: "//www.opendoorcoworking.com/images/coworking-is.png"
 ---
 
 I know what you're thinking... "My home office is just fine.  There's no reason that I should join a coworking space," and you may be right, but imagine for a second what life might be outside of the house.  Really reflect on your current situation and ask yourself if you're really as productive as you could be while working in your underwear 50 paces from your bed.  Having a hard time picturing it?  No problem!  That's what this post is all about.
@@ -15,7 +15,7 @@ I know what you're thinking... "My home office is just fine.  There's no reason 
 
 Distractions ruin productivity, and you and I both know that in the age we live in, disctractions are everywhere.  Your phone beeps, your watch buzzes, your computer dings, and sometimes they all happen at the same time.  These are all part of the cost of being connected, and are sometimes unavoidable.
 <figure class="float-right">
-<img alt="He's cute, but a disaster for work" src='/images/needy-cat.jpg' class="blog-pic">
+<img alt="He's cute, but a disaster for work" src='//www.opendoorcoworking.com/images/needy-cat.jpg' class="blog-pic">
 <figcaption>Try working with this guy staring you down</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Sure, coworking spaces have their own distractions, but they are the distraction
 So, one of the most difficult parts of working from home, and I speak from personal experience on this, is that it's _very_ difficult to separate your work hours from your home hours.
 
 <figure class="center">
-<img alt="Coworking Venn Diagram" src='/images/coworking-venn.png' class="blog-pic">
+<img alt="Coworking Venn Diagram" src='//www.opendoorcoworking.com/images/coworking-venn.png' class="blog-pic">
 <figcaption>Based on the very scientific method of me asking people who work from coworking spaces if this is how they feel</figcaption>
 </figure>
 

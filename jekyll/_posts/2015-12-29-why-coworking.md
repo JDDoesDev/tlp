@@ -5,9 +5,9 @@ date:   2015-12-29 12:00:00 -0600
 categories: coworking
 author: "J.D. Flynn"
 excerpt: "When I first became a professional web developer (meaning taking it from a hobby to a paying job) I immediately began looking for work in Chicago.  In my eyes, traveling to the city every day was the only option.  There weren't a lot of web shops in the area and job postings for web developers were either grossly underpaid or non-existant."
-image: "/images/cowork_blog.jpg"
+image: "//www.opendoorcoworking.com/images/cowork_blog.jpg"
 imagealt: "Coworking Desk"
-thumbnail: "/images/thumb/cowork_blog_thumb.jpg"
+thumbnail: "//www.opendoorcoworking.com/images/thumb/cowork_blog_thumb.jpg"
 ---
 One of the most common questions I get, next to "What is a coworking space?", is "Why open a coworking space?"  It's definitely a fair question, and the short answer is "for the community."
 
