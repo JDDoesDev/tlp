@@ -7,6 +7,7 @@ author: "J.D. Flynn"
 image: "//www.opendoorcoworking.com/images/coworking-is.png"
 imagealt: "What coworking space members think coworking is"
 thumbnail: "//www.opendoorcoworking.com/images/coworking-is.png"
+keywords: "reasons to leave home office, home office problems, why join a coworking space"
 ---
 
 I know what you're thinking... "My home office is just fine.  There's no reason that I should join a coworking space," and you may be right, but imagine for a second what life might be outside of the house.  Really reflect on your current situation and ask yourself if you're really as productive as you could be while working in your underwear 50 paces from your bed.  Having a hard time picturing it?  No problem!  That's what this post is all about.

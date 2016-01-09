@@ -53,7 +53,7 @@
 
     <!-- START META, DESCRIPTION, KEYWORDS, AUTHOR -->
     <meta name="description" content="Open Door Coworking is LaPorte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone." />
-    <meta name="keywords" content="coworking, laporte, indiana, freelancer, entrepreneurs" />
+    <meta name="keywords" content="coworking, laporte, indiana, freelancer, entrepreneurs, office space rental, office space for rent" />
     <!-- END META, DESCRIPTION, KEYWORDS, AUTHOR -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1">

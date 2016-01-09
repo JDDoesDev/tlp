@@ -8,6 +8,7 @@ excerpt: "When I first became a professional web developer (meaning taking it fr
 image: "//www.opendoorcoworking.com/images/cowork_blog.jpg"
 imagealt: "Coworking Desk"
 thumbnail: "//www.opendoorcoworking.com/images/thumb/cowork_blog_thumb.jpg"
+keywords: "why open a coworking space, reasons to open a coworking space"
 ---
 One of the most common questions I get, next to "What is a coworking space?", is "Why open a coworking space?"  It's definitely a fair question, and the short answer is "for the community."
 
