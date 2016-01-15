@@ -79,7 +79,7 @@
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
 {% endif %}
 {% if page.image %}
-  <meta content="{{ page.image }}" property="og:image">
+  <meta content="https:{{ page.image }}" property="og:image">
 {% else %}
   <meta content="/images/opendoor.png" property="og:image">
 {% endif %}
@@ -101,7 +101,7 @@
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
 {% if page.image %}
-  <meta name="twitter:image:src" content="{{ page.image }}">
+  <meta name="twitter:image:src" content="https:{{ page.image }}">
 {% else %}
   <meta name="twitter:image:src" content="{{ site.url }}/images/opendoor.png">
 {% endif %}
