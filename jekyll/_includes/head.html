@@ -93,7 +93,7 @@
   <meta name="twitter:title" content="{{ site.title }}">
 {% endif %}
 {% if page.url %}
-  <meta name="twitter:url" content="{{ site.url }}{{ base.url }}{{ page.url }}">
+  <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 {% endif %}
 {% if page.excerpt %}
   <meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
