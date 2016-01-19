@@ -2,12 +2,13 @@
 layout: default
 ---
 <article class="post " itemscope itemtype="http://schema.org/BlogPosting">
-
+  <meta itemprop="publisher" content="{{ page.author }}">
+  <meta itemprop="mainEntityOfPage" content="https://www.opendoorcoworking.com">
   <header class="post-header">
     <h1 class="post-title center underline" itemprop="name headline">{{ page.title }}</h1>
   </header>
     <div class="w-col w-col-2">
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} <br /> <a href="mailto:{{ site.email}}" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></a>{% endif %}
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished dateModified">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} <br /> <a href="mailto:{{ site.email}}" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></a>{% endif %}
       {% include _share-page.html %}
       </p>
   <p class="blog-home"><a href="{{ site.baseurl }}"> &lt; Blog Home</a></p>
@@ -15,7 +16,7 @@ layout: default
   <div class="post-content w-col w-col-8" itemprop="articleBody">
   {% if page.image %}
     <p class="center">
-      <img src="{{ page.image }}" alt="{{ page.imagealt }}" class="top-image">
+      <img itemprop="image" src="{{ page.image }}" alt="{{ page.imagealt }}" class="top-image">
     </p>
   {% endif %}
     {{ content }}

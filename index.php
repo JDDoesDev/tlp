@@ -97,33 +97,26 @@
     <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script><![endif]-->
     <script type='application/ld+json'>
       {
-        "@context": "http://www.schema.org",
+        "@context": "http://schema.org",
         "@type": "LocalBusiness",
+        "@id": "https://www.opendoorcoworking.com",
         "name": "Open Door Coworking",
         "url": "http://www.opendoorcoworking.com",
-        "sameAs" : ["https://www.facebook.com/opendoorcoworking/", "http://twitter.com/opendoorcowork"],
+        "sameAs" : ["https://www.facebook.com/opendoorcoworking/", "http://twitter.com/opendoorcowork","http://www.yelp.com/biz/open-door-coworking-la-porte"],
         "logo": "http://www.opendoorcoworking.com/images/opendoorcowork.png",
         "description": "Open Door Coworking is La Porte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters. Ready to join the coworking movement?  Work. Together.",
         "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+12195610219",
-        "contactType" : "customer service"
+          "@type": "ContactPoint",
+          "telephone": "+12195610219",
+          "contactType" : "customer service"
         },
         "address": {
-        "@type": "PostalAddress",
-        "streetAddress" : "1705 State St",
-        "addressLocality": "LaPorte",
-        "addressRegion": "Indiana",
-        "postalCode": "46350"
+          "@type": "PostalAddress",
+          "streetAddress" : "1705 State St",
+          "addressLocality": "LaPorte",
+          "addressRegion": "Indiana",
+          "postalCode": "46350"
         }
-      }
-    </script>
-    <script type='application/ld+json'>
-      {
-        "@context": "http://www.schema.org",
-        "@type": "WebSite",
-        "name": "Open Door Coworking",
-        "url": "http://www.opendoorcoworking.com"
       }
     </script>
     <script>
