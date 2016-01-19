@@ -20,7 +20,7 @@ It's easy to take a break that is supposed to last the time it takes you to get 
 There are literally TONS of apps and tools out there that are designed to make you more productive.  One of the best that I've found is a [Pomodoro timer](http://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730).  Basically, you set a 25 minute timer and work your butt off during that 25 minutes.  Focus only on your task at hand and work, work, work!  Take a 5 minute break to rest your eyes, check your email, look at your phone, etc. and then set another 25 minute timer and GO!  Repeat this 4 times, then take a 15 minute break.  Eight cycles of this and it's time for lunch!
 Some rules to consider for those around you:
     * The Headphone Rule - If your headphones are on, you are not available.
-    * The Door Rule - If the door is closed, it had better be somethin extremely important for it to be opened
+    * The Door Rule - If the door is closed, it had better be something extremely important for it to be opened
     * The "You know I'm Working" Rule - If someone knows that you're working, they need to let you work
 
 1. ## Get out of the house
