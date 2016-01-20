@@ -5,12 +5,12 @@
     <description>Open Door Coworking is LaPorte, Indiana&#39;s first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone.</description>
     <link>https://www.opendoorcoworking.com/posts/</link>
     <atom:link href="https://www.opendoorcoworking.com/posts/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jan 2016 08:22:44 -0600</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2016 08:22:44 -0600</lastBuildDate>
+    <pubDate>Wed, 20 Jan 2016 08:39:12 -0600</pubDate>
+    <lastBuildDate>Wed, 20 Jan 2016 08:39:12 -0600</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Drupal Global Sprint Weekend</title>
+        <title>Drupal Global Sprint Weekend Day 2</title>
         <description>&lt;p&gt;Join us on Saturday, January 30 and Sunday, January 31 at Open Door Coworking Space in Laporte for the Drupal Global Sprint Weekend!&lt;/p&gt;
 
 &lt;p&gt;This sprint will focus on Drupal 8 issues, and porting modules to Drupal 8.&lt;/p&gt;
@@ -29,8 +29,36 @@
 &lt;p&gt;You can find out more about Global Sprint Weekend and RSVP on &lt;a href=&quot;https://groups.drupal.org/node/488988&quot;&gt;groups.drupal.org&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Jan 2016 07:00:00 -0600</pubDate>
-        <link>https://www.opendoorcoworking.com/posts/events/2016/01/drupal-global-sprint-weekend/</link>
-        <guid isPermaLink="true">https://www.opendoorcoworking.com/posts/events/2016/01/drupal-global-sprint-weekend/</guid>
+        <link>https://www.opendoorcoworking.com/posts/events/2016/01/drupal-global-sprint-weekend-day-2/</link>
+        <guid isPermaLink="true">https://www.opendoorcoworking.com/posts/events/2016/01/drupal-global-sprint-weekend-day-2/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Drupal Global Sprint Weekend Day 1</title>
+        <description>&lt;p&gt;Join us on Saturday, January 30 and Sunday, January 31 at Open Door Coworking Space in Laporte for the Drupal Global Sprint Weekend!&lt;/p&gt;
+
+&lt;p&gt;This sprint will focus on Drupal 8 issues, and porting modules to Drupal 8.&lt;/p&gt;
+
+&lt;p&gt;Not up for coding? Some examples of other activities you can do at the sprint include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Writing docs for core or contributed modules&lt;/li&gt;
+  &lt;li&gt;Working on presentations&lt;/li&gt;
+  &lt;li&gt;Testing or reviewing patches for core or contributed modules&lt;/li&gt;
+  &lt;li&gt;Anything else that helps make Drupal awesome!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We will start at 9:00am and continue until around 6pm.&lt;/p&gt;
+
+&lt;p&gt;You can find out more about Global Sprint Weekend and RSVP on &lt;a href=&quot;https://groups.drupal.org/node/488988&quot;&gt;groups.drupal.org&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Jan 2016 07:00:00 -0600</pubDate>
+        <link>https://www.opendoorcoworking.com/posts/events/2016/01/drupal-global-sprint-weekend-day-1/</link>
+        <guid isPermaLink="true">https://www.opendoorcoworking.com/posts/events/2016/01/drupal-global-sprint-weekend-day-1/</guid>
         
         
         <category>events</category>
