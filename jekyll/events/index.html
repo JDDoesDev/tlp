@@ -1,10 +1,12 @@
 ---
 layout: default
+title: "Open Door Coworking Upcoming Events"
+excerpt: "Check out the events that are happening around Open Door Coworking"
 ---
 
 <div class="home center">
 
-  <h1 class="page-heading underline">OPEN DOOR COWORKING UPCOMING EVENTS</h1>
+  <h1 class="page-heading underline">Open Door Coworking Upcoming Events</h1>
 
   <ul class="post-list">
     {% assign sortedPosts = site.posts | sort 'startdate' %}
@@ -12,6 +14,32 @@ layout: default
       {% if post.categories contains "events" %}
        {% if site.time < post.startdate %}
       <li style="clear: both;">
+        <script type='application/ld+json'>
+{
+  "@context": "http://www.schema.org",
+  "@type": "Event",
+  "name": "{{ post.name }}",
+  "description": "{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}",
+  "startDate": "{{ post.startdate | date_to_xmlschema }}",
+  "location": {
+    "@type": "Place",
+    "name": "Open Door Coworking",
+    "sameAs": "http://www.opendoorcoworking.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1705 State St",
+      "addressLocality": "LAPORTE",
+      "addressRegion": "IN",
+      "postalCode": "46350",
+      "addressCountry": "United States"
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "{% if post.price %} {{ post.price }} {% else %} 0 {% endif %}"{% if post.eventurl %} , "url" : "{{ post.eventurl }}" {% endif %}
+  }
+}
+ </script>
          <span class="post-meta">{{ post.startdate | date: "%b %-d, %Y" }}</span>
         <h2 class="w-col">
           <a class="post-link" href="{{ site.url }}{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
