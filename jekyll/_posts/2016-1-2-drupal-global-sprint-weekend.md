@@ -13,7 +13,7 @@ imagealt: "Druplicon with Slicer Pride!"
 thumbnail: "//www.opendoorcoworking.com/images/thumb/orange-druplicon-thumb.png"
 ---
 
-Join us on Saturday, January 30 and Sunday, January 31 at the OpenDoor Coworking Space in Laporte for Drupal's Global Sprint Weekend!
+Join us on Saturday, January 30 and Sunday, January 31 at Open Door Coworking Space in Laporte for the Drupal Global Sprint Weekend!
 
 This sprint will focus on Drupal 8 issues, and porting modules to Drupal 8.
 
