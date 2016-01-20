@@ -10,7 +10,7 @@ excerpt: "Check out the events that are happening around Open Door Coworking"
 
   <ul class="post-list">
     {% assign sortedPosts = site.posts | sort 'startdate' %}
-    {% for post in sortedPosts reversed %}
+    {% for post in sortedPosts %}
       {% if post.categories contains "events" %}
        {% if site.time < post.startdate %}
       <li style="clear: both;">
