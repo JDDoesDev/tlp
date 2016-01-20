@@ -2,7 +2,7 @@
 layout: event
 name:  "Drupal Global Sprint Weekend"
 date:   2016-1-20 07:00:00 -0600
-startdate: 2016-1-30 08:30:00 -0600
+startdate: 2016-1-30 09:00:00 -0600
 categories: events
 author: "J.D. Flynn"
 eventurl: "https://groups.drupal.org/node/506268"
