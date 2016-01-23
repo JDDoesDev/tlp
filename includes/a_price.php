@@ -22,7 +22,7 @@
 
                 <h3>BY THE DAY</h3>
 
-                <span class="price"> Only <del> $25 </del>&nbsp;$20 / Day</span>
+                <span class="price"> Only $25 / Day</span>
               </div>
 
               <div class="pricing-content">
@@ -50,12 +50,12 @@
             <div class="pricing-section">
               <div class="pricing-header">
                 <h3>HOTDESK</h3>
-                <span class="price">Only <del> $100 </del>&nbsp;$80 / Month</span>
+                <span class="price">Only $100 / Month</span>
               </div>
               <div class="pricing-content">
                 <ul>
                   <li>
-                    Less than a <del>$4</del> $3 a day
+                    Less than a $4 a day
                   </li>
                   <li>
                     24/7 Access
@@ -71,12 +71,12 @@
             <div class="pricing-section pricing-main">
               <div class="pricing-header header-main">
                 <h3>RESERVED DESK</h3>
-                <span class="price">Only <del> $200 </del>&nbsp;$175 / Month</span>
+                <span class="price">Only $200 / Month</span>
               </div>
               <div class="pricing-content footer-main">
                 <ul>
                   <li>
-                    Less than <del>$7</del> $6 a day
+                    Less than $7 a day
                   </li>
                   <li>
                     Your own desk with storage
@@ -92,7 +92,7 @@
             <div class="pricing-section">
               <div class="pricing-header">
                 <h3>PRIVATE OFFICE</h3>
-                <span class="price">Only <del> $375 </del>&nbsp;$325 / Month</span>
+                <span class="price">Only $375 / Month</span>
               </div>
               <div class="pricing-content">
                 <ul>
