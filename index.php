@@ -101,7 +101,7 @@
         "@type": "LocalBusiness",
         "@id": "https://www.opendoorcoworking.com",
         "name": "Open Door Coworking",
-        "url": "http://www.opendoorcoworking.com",
+        "url": "https://www.opendoorcoworking.com",
         "sameAs" : [
           "http://www.facebook.com/opendoorcoworking",
           "http://www.twitter.com/opendoorcowork",
