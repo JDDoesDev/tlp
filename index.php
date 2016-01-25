@@ -102,7 +102,11 @@
         "@id": "https://www.opendoorcoworking.com",
         "name": "Open Door Coworking",
         "url": "http://www.opendoorcoworking.com",
-        "sameAs" : ["https://www.facebook.com/opendoorcoworking/", "http://twitter.com/opendoorcowork","http://www.yelp.com/biz/open-door-coworking-la-porte"],
+        "sameAs" : [
+          "http://www.facebook.com/opendoorcoworking",
+          "http://www.twitter.com/opendoorcowork",
+          "http://www.yelp.com/biz/open-door-coworking-la-porte"
+          ],
         "logo": "http://www.opendoorcoworking.com/images/opendoorcowork.png",
         "description": "Open Door Coworking is La Porte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters. Ready to join the coworking movement?  Work. Together.",
         "contactPoint": {
