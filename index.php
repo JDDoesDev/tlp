@@ -381,7 +381,7 @@
             <div class="center">
               <h1 class="underline">GET IN TOUCH</h1>
               <p>
-                Are you ready to schedule your tour or free day of coworking at <strong>OPEN DOOR COWORKING</strong> or do you have other questions?
+                Are you ready to schedule your tour of coworking at <strong>OPEN DOOR COWORKING</strong> or do you have other questions?
                 <br/>
                 Either call <a href="tel:+12195610219">219-561-0219</a>, fill out the contact form, or just <a href="http://goo.gl/forms/ook9usnqsn" target="_blank" onclick="ga('send', 'event', 'menu', 'Click', 'Tour');">schedule a tour.</a>
               </p>
