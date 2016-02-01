@@ -5,9 +5,24 @@
     <description>Open Door Coworking is LaPorte, Indiana&#39;s first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone.</description>
     <link>https://www.opendoorcoworking.com/posts/</link>
     <atom:link href="https://www.opendoorcoworking.com/posts/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Jan 2016 13:59:42 -0600</pubDate>
-    <lastBuildDate>Mon, 25 Jan 2016 13:59:42 -0600</lastBuildDate>
+    <pubDate>Mon, 01 Feb 2016 13:32:40 -0600</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2016 13:32:40 -0600</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Technically Laporte Blog Workshop</title>
+        <description>&lt;p&gt;Thinking about starting your own blog? Got something you want to say to the world, but aren’t sure how to get started? Interested in learning how blogs work and best practices? Join J.D. Flynn and Technically La Porte for a presentation on different platforms for blogging and some tips and tricks to help get your blog found once you’re set up!  Please RSVP at &lt;a href=&quot;http://www.meetup.com/Technically-LaPorte/events/228523064/&quot;&gt;the Technically La Porte Meetup page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also looking for presenters and sponsors for future meetups.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Feb 2016 07:00:00 -0600</pubDate>
+        <link>https://www.opendoorcoworking.com/posts/events/2016/02/technically-laporte-blog-workshop/</link>
+        <guid isPermaLink="true">https://www.opendoorcoworking.com/posts/events/2016/02/technically-laporte-blog-workshop/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
     
       <item>
         <title>Speed Networking</title>
@@ -50,34 +65,6 @@
         <pubDate>Wed, 20 Jan 2016 07:00:00 -0600</pubDate>
         <link>https://www.opendoorcoworking.com/posts/events/2016/01/drupal-global-sprint-weekend-day-2/</link>
         <guid isPermaLink="true">https://www.opendoorcoworking.com/posts/events/2016/01/drupal-global-sprint-weekend-day-2/</guid>
-        
-        
-        <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>Drupal Global Sprint Weekend Day 1</title>
-        <description>&lt;p&gt;Join us on Saturday, January 30 and Sunday, January 31 at Open Door Coworking Space in Laporte for the Drupal Global Sprint Weekend!&lt;/p&gt;
-
-&lt;p&gt;This sprint will focus on Drupal 8 issues, and porting modules to Drupal 8.&lt;/p&gt;
-
-&lt;p&gt;Not up for coding? Some examples of other activities you can do at the sprint include:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Writing docs for core or contributed modules&lt;/li&gt;
-  &lt;li&gt;Working on presentations&lt;/li&gt;
-  &lt;li&gt;Testing or reviewing patches for core or contributed modules&lt;/li&gt;
-  &lt;li&gt;Anything else that helps make Drupal awesome!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We will start at 9:00am and continue until around 6pm.&lt;/p&gt;
-
-&lt;p&gt;You can find out more about Global Sprint Weekend and RSVP on &lt;a href=&quot;https://groups.drupal.org/node/488988&quot;&gt;groups.drupal.org&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Jan 2016 07:00:00 -0600</pubDate>
-        <link>https://www.opendoorcoworking.com/posts/events/2016/01/drupal-global-sprint-weekend-day-1/</link>
-        <guid isPermaLink="true">https://www.opendoorcoworking.com/posts/events/2016/01/drupal-global-sprint-weekend-day-1/</guid>
         
         
         <category>events</category>
