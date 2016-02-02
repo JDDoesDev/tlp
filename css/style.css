@@ -199,7 +199,7 @@ padding: 100px 0 60px;
 }
 
 .header-parallax {
-  background: url(../images/header/parallax_bg-min.png) fixed no-repeat center center;
+  background: url(../images/header/parallax_bg-min.jpg) fixed no-repeat center center;
   margin: auto;
   background-size: cover;
 }
