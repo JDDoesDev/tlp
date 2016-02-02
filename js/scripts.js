@@ -48,10 +48,10 @@ $(document).ready(function() {
 
 
 
-  $(document).ready(function() {
-  var nice = $("html").niceScroll();  // The document page (body)
-    $("#boxscroll").niceScroll({touchbehavior:true}); // First scrollable DIV
-  });
+  // $(document).ready(function() {
+  // var nice = $("html").niceScroll();  // The document page (body)
+    // $("#boxscroll").niceScroll({touchbehavior:true}); // First scrollable DIV
+  // });
 
 
 
