@@ -2,7 +2,7 @@
 layout: event
 name:  "Technically La Porte Intro to Blogging"
 date:   2016-2-1 07:00:00 -0600
-startdate: 2016-2-16 09:00:00 -0600
+startdate: 2016-2-23 09:00:00 -0600
 categories: events
 author: "J.D. Flynn"
 eventurl: "http://www.meetup.com/Technically-LaPorte/events/228523064/"
