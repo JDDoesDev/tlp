@@ -13,6 +13,6 @@ thumbnail: "//www.opendoorcoworking.com/images/thumb/games_thumb.jpg"
 
 ---
 
-In the inagural meeting, La Porte Tabletop Gamers will be getting together and, you guessed it, playing some tabletop games!  Come join the fun and bring your favorite board game along.
+La Porte Tabletop Gamers will be getting together and, you guessed it, playing some tabletop games!  Come join the fun and bring your favorite board game along.
 
 Please be sure to RSVP at [meetup.com](http://www.meetup.com/La-Porte-Tabletop-Gamers/events/228617237/) because space is limited.
