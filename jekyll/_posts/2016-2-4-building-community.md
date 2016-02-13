@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Problem With Building A Community"
-date:   2015-12-29 12:00:00 -0600
+date:   2016-2-4 12:00:00 -0600
 categories: coworking
 author: "J.D. Flynn"
 keywords: "building community, coworking community"
