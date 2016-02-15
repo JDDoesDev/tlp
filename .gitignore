@@ -2,7 +2,4 @@
 .project
 .htaccess
 robots.txt
-charge.php
-config.php
-stripe.php
-vendor/*
+
