@@ -2,7 +2,7 @@
 
 <form action="charge.php" method="post">
   <select name="plan" id="plan">
-    <option value="null">--- Select a plan ---</option>
+    <option value="">--- Select a plan ---</option>
     <option value="hotdesk" data-price="100">Hotdesk</option>
     <option value="reserved" data-price="200">Reserved Desk</option>
     <option value="office" data-price="325">Private Office</option>
