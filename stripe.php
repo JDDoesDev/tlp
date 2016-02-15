@@ -1,5 +1,5 @@
 <?php require_once('./config.php'); ?>
-<?php var_dump($stripe);?>
+
 <form action="charge.php" method="post">
   <select name="plan" id="plan">
     <option value="null">--- Select a plan ---</option>
