@@ -24,7 +24,6 @@
         $coupon_verified = FALSE;
       }
     }
-  var_dump($coupon_verified);
     if ($coupon_verified == TRUE) {
       $customer = \Stripe\Customer::create(array(
         "source" => $token,
