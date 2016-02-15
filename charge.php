@@ -1,6 +1,5 @@
 <?php
   require_once('./config.php');
-  var_dump($_POST);
   $coupon_attempt = FALSE;
   $coupon_verified = FALSE;
   $token  = $_POST['stripeToken'];
