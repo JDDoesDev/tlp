@@ -15,7 +15,7 @@
   <script src="https://checkout.stripe.com/checkout.js" class="stripe-button"
           data-key="<?php echo $stripe['publishable_key']; ?>"
           data-description="Monthly membership"
-          data-billing-address="true"
+          data-billing-address="false"
           data-locale="auto"></script>
 </form>
 
