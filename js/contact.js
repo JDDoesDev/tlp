@@ -1,4 +1,4 @@
-(function () {
+$(function () {
   var $form = $("#ajax-contact");
   var $messages = $('.form-messages');
 
