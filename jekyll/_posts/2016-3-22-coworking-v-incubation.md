@@ -3,6 +3,7 @@ layout: post
 title:  "The Coworking Space Versus Incubator Problem"
 date:   2016-3-27 12:00:00 -0600
 categories: coworking
+excerpt: "The coworking space manager/owner community is pretty knowledgeable about how to correctly term various things in our vertical that have to do with coworking spaces.  We are not community managers, we're community _facilitators_ or _tummlers_ meaning that we don't want to manage the community; we want to make the space available for the community to thrive."  
 author: "J.D. Flynn"
 keywords: "coworking space, incubator, startup incubator"
 ---
