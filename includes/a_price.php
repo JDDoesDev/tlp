@@ -5,8 +5,7 @@
       <div class="w-container wrapper">
         <div class="center">
 
-          <h1 class="underline">BECOME A MEMBER TODAY!</h1>
-
+          <h1 class="underline">JOIN THE COWORKING MOVEMENT TODAY!</h1>
           <p>
             Discover how a coworking space can help you work better and <a href="http://goo.gl/forms/ook9usnqsn">schedule a tour</a> now.
           </p>
