@@ -65,7 +65,7 @@ ol,ul {
 
 p {
   text-align: left;
-  margin-bottom: 30px;
+  margin-bottom: .5em;
   font-size: 1em;
 }
 
@@ -205,11 +205,11 @@ padding: 100px 0 60px;
 }
 
 .header-parallax {
-  height: 620px;
+  height: 700px;
 }
 
 .header-parallax p {
-  font-size: 2em;
+  font-size: 1.5em;
 }
 .opcaity {
   background: rgba(0,0,0,0.89);
@@ -292,6 +292,14 @@ h1.underline-dotted,h2.underline-dotted,h3.underline-dotted,h4.underline-dotted 
   border-bottom: 1px solid #27ae60;
 }
 
+.row-gree a {
+  color: #ebebeb;
+  text-decoration: underline;
+}
+
+.row-gree a:hover {
+  color: #ebebeb;
+}
 /*********************************************
 * Header Style
 *********************************************/
@@ -474,7 +482,7 @@ background: #FFFFFF !important;
   position: absolute;
   width: 100%;
   top: 80px;
-  height: 620px;
+  height: 700px;
 }
 
 .fixed-content {
@@ -1164,4 +1172,8 @@ figcaption {
 .banner .w-row {
   margin-left: 0;
   margin-right: 0;
+}
+
+a.button:hover {
+  color: #ebebeb;
 }
