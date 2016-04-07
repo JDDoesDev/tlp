@@ -205,10 +205,7 @@ padding: 100px 0 60px;
 }
 
 .header-parallax {
-  height: 1000px;
-  @media screen and (min-width: 756px) {
-    height: 800px;
-  }
+  height: 800px;
 }
 
 .header-parallax p {
@@ -485,10 +482,7 @@ background: #FFFFFF !important;
   position: absolute;
   width: 100%;
   top: 80px;
-  height: 1000px;
-  @media screen and (min-width: 756px) {
-    height: 700px;
-  }
+  height: 800px;
 }
 
 .fixed-content {
