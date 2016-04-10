@@ -1,7 +1,7 @@
 ---
 layout: event
 name:  "Open Door Coworking Grand Opening and Ribbon Cutting"
-date:   2016-4-8 07:00:00 -0600
+date: 2016-4-6 07:00:00 -0600
 startdate: 2016-4-20 16:30:00 -0600
 categories: events
 author: "J.D. Flynn"
