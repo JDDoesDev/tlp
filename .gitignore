@@ -2,4 +2,4 @@
 .project
 .htaccess
 robots.txt
-
+*/.DS_store
