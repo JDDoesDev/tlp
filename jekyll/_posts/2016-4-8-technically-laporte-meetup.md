@@ -1,8 +1,8 @@
 ---
 layout: event
 name:  "Technically LaPorte: Choosing a CMS"
-date:   2016-1-2 07:00:00 -0600
-startdate: 2016-1-13 19:00:00 -0600
+date:   2016-4-8 07:00:00 -0600
+startdate: 2016-4-25 19:00:00 -0600
 categories: events
 author: "J.D. Flynn"
 eventurl: "http://www.meetup.com/Technically-LaPorte/events/227440162/"

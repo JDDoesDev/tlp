@@ -5,8 +5,8 @@
     <description>Open Door Coworking is LaPorte, Indiana&#39;s first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone.</description>
     <link>https://www.opendoorcoworking.com/posts/</link>
     <atom:link href="https://www.opendoorcoworking.com/posts/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Apr 2016 17:31:46 -0500</pubDate>
-    <lastBuildDate>Sun, 10 Apr 2016 17:31:46 -0500</lastBuildDate>
+    <pubDate>Sun, 10 Apr 2016 17:35:30 -0500</pubDate>
+    <lastBuildDate>Sun, 10 Apr 2016 17:35:30 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -20,6 +20,23 @@
         <pubDate>Fri, 08 Apr 2016 08:00:00 -0500</pubDate>
         <link>https://www.opendoorcoworking.com/posts/events/2016/04/open-door-coworking-grand-opening/</link>
         <guid isPermaLink="true">https://www.opendoorcoworking.com/posts/events/2016/04/open-door-coworking-grand-opening/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Technically Laporte Meetup</title>
+        <description>&lt;p&gt;Wordpress? Drupal? Joomla? What are all of these and what do they mean?&lt;/p&gt;
+
+&lt;p&gt;If you’ve ever considered building your own website, then you’ve probably looked at at least one of these names, if not all of them. What is different between them and which one is the best for you?&lt;/p&gt;
+
+&lt;p&gt;Join us for a brief presentation on Content Management Systems and the differences between them followed by a period of networking and open discussion.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Apr 2016 08:00:00 -0500</pubDate>
+        <link>https://www.opendoorcoworking.com/posts/events/2016/04/technically-laporte-meetup/</link>
+        <guid isPermaLink="true">https://www.opendoorcoworking.com/posts/events/2016/04/technically-laporte-meetup/</guid>
         
         
         <category>events</category>
@@ -292,23 +309,6 @@ These sound a bit harsh, but if your day is full of distractions and you still n
         
         
         <category>coworking</category>
-        
-      </item>
-    
-      <item>
-        <title>Technically Laporte Meetup</title>
-        <description>&lt;p&gt;Wordpress? Drupal? Joomla? What are all of these and what do they mean?&lt;/p&gt;
-
-&lt;p&gt;If you’ve ever considered building your own website, then you’ve probably looked at at least one of these names, if not all of them. What is different between them and which one is the best for you?&lt;/p&gt;
-
-&lt;p&gt;Join us for a brief presentation on Content Management Systems and the differences between them followed by a period of networking and open discussion.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Jan 2016 07:00:00 -0600</pubDate>
-        <link>https://www.opendoorcoworking.com/posts/events/2016/01/technically-laporte-meetup/</link>
-        <guid isPermaLink="true">https://www.opendoorcoworking.com/posts/events/2016/01/technically-laporte-meetup/</guid>
-        
-        
-        <category>events</category>
         
       </item>
     
