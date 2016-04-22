@@ -36,21 +36,21 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- START THEME STYLE -->
-  <link rel="stylesheet" type="text/css" href="css/normal.css">
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-  <link rel="stylesheet" type="text/css" href="css/headhesive.css">
-  <link rel="stylesheet" type="text/css" href="css/lightbox.css">
-  <link href="css/animate.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="/css/normal.css">
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+  <link rel="stylesheet" type="text/css" href="/css/headhesive.css">
+  <link rel="stylesheet" type="text/css" href="/css/lightbox.css">
+  <link href="/css/animate.css" rel="stylesheet">
 
   <!-- END THEME STYLE -->
 
   <!-- START FONTELLO ICONS STYLESHEET -->
-  <link rel="stylesheet" type="text/css" href="css/fontello.css">
-  <link rel="stylesheet" type="text/css" href="css/fontello-ie7.css">
+  <link rel="stylesheet" type="text/css" href="/css/fontello.css">
+  <link rel="stylesheet" type="text/css" href="/css/fontello-ie7.css">
   <!-- END FONTELLO ICONS STYLESHEET -->
 
   <!-- START MAGNIFIC POPUP STYLESHEET -->
-  <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
+  <link rel="stylesheet" type="text/css" href="/css/magnific-popup.css">
   <!-- END MAGNIFIC POPUP STYLESHEET -->
 
   <!-- LOAD GOOGLE FONT OPEN SANS -->
@@ -125,7 +125,7 @@
             <!-- START COLUMN 3 -->
             <div class="w-col w-col-2 logo">
               <!-- START LOGO -->
-              <a href="#"><img src="images/opendoorcowork.png" alt="Open Door Coworking" onload="ga('send', 'event', 'page', 'load', 'Version <?php print $version; ?>');"></a>
+              <a href="#"><img src="/images/opendoorcowork.png" alt="Open Door Coworking" onload="ga('send', 'event', 'page', 'load', 'Version A');"></a>
               <!-- END LOGO -->
             </div><!-- END COLUMN 3 -->
 
