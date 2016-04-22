@@ -141,8 +141,8 @@
                   <nav class="w-nav-menu nav-menu" role="navigation">
 
                     <a class="w-nav-link menu-li " href="/" onclick="ga('send', 'event', 'menu', 'Click', 'Home');">HOME</a>
-                    <a class="w-nav-link menu-li" href="membership/" onclick="ga('send', 'event', 'menu', 'Click', 'Membership');">MEMBERSHIP</a>
-                    <a class="w-nav-link menu-li" href="contact-form/" onclick="ga('send', 'event', 'menu', 'Click', 'Contact');"> CONTACT </a>
+                    <a class="w-nav-link menu-li" href="/membership/" onclick="ga('send', 'event', 'menu', 'Click', 'Membership');">MEMBERSHIP</a>
+                    <a class="w-nav-link menu-li" href="/contact-form/" onclick="ga('send', 'event', 'menu', 'Click', 'Contact');"> CONTACT </a>
                     <a class="w-nav-link menu-li" href="/faqs/" target="_blank" onclick="ga('send', 'event', 'menu', 'Click', 'Faqs');"> FAQs </a>
                     <a class="w-nav-link menu-li" href="/posts" onclick="ga('send', 'event', 'menu', 'Click', 'Blog');"> BLOG </a>
                     <a class="w-nav-link menu-li" href="/posts/events" onclick="ga('send', 'event', 'menu', 'Click', 'Blog');"> EVENTS </a>
