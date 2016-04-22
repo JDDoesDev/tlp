@@ -1,32 +1,32 @@
 /*
 
- * Elegance - Onepahe HTML Template
+* Elegance - Onepahe HTML Template
 
- * Author : Carino Technologies
+* Author : Carino Technologies
 
- * https:// carinotech.com
+* https:// carinotech.com
 
- * versions v 1.0.0
+* versions v 1.0.0
 
- */
+*/
 
 /* Table of content
 
- =>   Elegance Normal
+=>   Elegance Normal
 
- =>   Client Sectioin Normal
+=>   Client Sectioin Normal
 
- =>   Responsive
+=>   Responsive
 
- =>   Elegance Responsive
+=>   Elegance Responsive
 
- */
+*/
 
 /********************************
 
- * Elegance normal
+* Elegance normal
 
- *******************************/
+*******************************/
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
   display: block
@@ -196,9 +196,9 @@ table {
 
 /**********************
 
- * Client section normal
+* Client section normal
 
- ***********************/
+***********************/
 
 html, body, div, span, applet, object, iframe, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 
@@ -245,9 +245,9 @@ html {
 
 /********************************
 
- * Responsive
+* Responsive
 
- ********************************/
+********************************/
 
 @font-face {
   font-family: 'webflow-icons';
@@ -1597,9 +1597,9 @@ textarea.w-input, textarea.w-select {
 
 /***************************
 
- * Elegance Responsive
+* Elegance Responsive
 
- *****************************/
+*****************************/
 
 @media (max-width: 991px) {
 
@@ -1715,4 +1715,3 @@ textarea.w-input, textarea.w-select {
   }
 
 }
-

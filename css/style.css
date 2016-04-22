@@ -175,7 +175,7 @@ h6 {
 }
 
 .wrap {
- padding: 34px 0 43px;
+  padding: 34px 0 43px;
 }
 
 .wrap-normal {
@@ -183,7 +183,7 @@ h6 {
 }
 
 .wrapper {
-padding: 100px 0 60px;
+  padding: 100px 0 60px;
 }
 
 
@@ -336,8 +336,8 @@ h1.underline-dotted,h2.underline-dotted,h3.underline-dotted,h4.underline-dotted 
 }
 
 .center-fix {
-width: 80%;
-margin: auto;
+  width: 80%;
+  margin: auto;
 }
 
 /********************************************
@@ -366,7 +366,7 @@ margin: auto;
 
 .banner--clone {
   opacity: 0.9;
-background: #FFFFFF !important;
+  background: #FFFFFF !important;
 }
 
 /************************************************
@@ -647,9 +647,9 @@ background: #FFFFFF !important;
   font-size: 24px;
   opacity: 0;
   filter: alpha(opacity=0);
-/* internet explorer */
+  /* internet explorer */
   -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
-/*IE8*/
+  /*IE8*/
   background: rgba(39,174,96,0.93);
   -webkit-transition: opacity .3s;
   -moz-transition: opacity .7s;
@@ -661,9 +661,9 @@ background: #FFFFFF !important;
 .lb-album li > a:hover span {
   opacity: 1;
   filter: alpha(opacity=99);
-/* internet explorer */
+  /* internet explorer */
   -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=99);
-/*IE8*/
+  /*IE8*/
 }
 
 .description {
@@ -675,7 +675,7 @@ background: #FFFFFF !important;
 
 .heading-description {
   padding-top: 75px;
-/* border-bottom: 12px double #FFF; */
+  /* border-bottom: 12px double #FFF; */
   padding-bottom: 25px;
   width: 80%;
   margin: auto;
@@ -793,9 +793,9 @@ margin-top: -25px;
 .team-album .tumbnail > a:hover span {
   opacity: 1;
   filter: alpha(opacity=99);
-/* internet explorer */
+  /* internet explorer */
   -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=99);
-/*IE8*/
+  /*IE8*/
 }
 
 .team-heading {
@@ -977,10 +977,10 @@ Waypoints
 .delay-2s { animation-delay: 2s; -webkit-animation-delay: 2s; }
 /* custom */
 .button span i.cogelegance-icons- {
-font-size: 20px;
-position: relative;
-right: 13px;
-top: 1px;
+  font-size: 20px;
+  position: relative;
+  right: 13px;
+  top: 1px;
 }
 
 .button.first {
@@ -1006,7 +1006,7 @@ top: 1px;
     padding: 15px;
   }
   .w-nav {
-  //  margin-top: -75px;
+    //  margin-top: -75px;
   }
 }
 
@@ -1040,17 +1040,17 @@ top: 1px;
     text-align: center;
   }
 
-.nav-col {
-  float: right;
-}
-
-@media screen and (max-width: 768px) {
-  .w-nav-button {
-    position: absolute;
-    right: 0;
-    top: -60px;
+  .nav-col {
+    float: right;
   }
-}
+
+  @media screen and (max-width: 768px) {
+    .w-nav-button {
+      position: absolute;
+      right: 0;
+      top: -60px;
+    }
+  }
 }
 #amenities li:before {
   content: "\f00c";
@@ -1126,7 +1126,7 @@ a:hover {
 }
 
 .excerpt-link {
-   color: #ecf0f1;
+  color: #ecf0f1;
 }
 
 .excerpt-link:hover, .eventStuff a:hover {

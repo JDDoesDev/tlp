@@ -1,338 +1,338 @@
 <?php
 // if (isset($_COOKIE['opendoor_page_version'])) {
-  // $page = $_COOKIE['opendoor_page_version'];
+// $page = $_COOKIE['opendoor_page_version'];
 // } else {
-  // $pages = array(1, 2, 3);
-  // shuffle($pages);
-  // $page = $pages[0];
-  // $expire = time() + (60 * 60 * 24 * 3);
-  // setcookie('opendoor_page_version', $page, $expire);
+// $pages = array(1, 2, 3);
+// shuffle($pages);
+// $page = $pages[0];
+// $expire = time() + (60 * 60 * 24 * 3);
+// setcookie('opendoor_page_version', $page, $expire);
 // }
 // switch ($page) {
-  // case 1 :
-    // $version = 'a';
-    // break;
-  // case 2 :
-    // $version = 'b';
-    // break;
-  // case 3 :
-    // $version = 'c';
-    // break;
+// case 1 :
+// $version = 'a';
+// break;
+// case 2 :
+// $version = 'b';
+// break;
+// case 3 :
+// $version = 'c';
+// break;
 // }
 ?>
 <!DOCTYPE html>
 <html>
 
-  <head>
-    <!-- START HEAD -->
-    <meta charset="utf-8">
-    <!-- Facebook Conversion Code for Key Page Views - James Flynn 1 -->
-    <script>
-      (function() {
-        var _fbq = window._fbq || (window._fbq = []);
-        if (!_fbq.loaded) {
-          var fbds = document.createElement('script');
-          fbds.async = true;
-          fbds.src = '//connect.facebook.net/en_US/fbds.js';
-          var s = document.getElementsByTagName('script')[0];
-          s.parentNode.insertBefore(fbds, s);
-          _fbq.loaded = true;
-        }
-      })();
-      window._fbq = window._fbq || [];
-      window._fbq.push(['track', '6038992278492', {
-        'value' : '0.00',
-        'currency' : 'USD'
-      }]);
-    </script>
-    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6038992278492&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" />
-    </noscript>
-    <!-- START TITLE -->
-    <title>Open Door Coworking | La Porte and Michigan City's FIRST Coworking Space</title>
-    <!-- END TITLE -->
+<head>
+  <!-- START HEAD -->
+  <meta charset="utf-8">
+  <!-- Facebook Conversion Code for Key Page Views - James Flynn 1 -->
+  <script>
+  (function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded) {
+      var fbds = document.createElement('script');
+      fbds.async = true;
+      fbds.src = '//connect.facebook.net/en_US/fbds.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(fbds, s);
+      _fbq.loaded = true;
+    }
+  })();
+  window._fbq = window._fbq || [];
+  window._fbq.push(['track', '6038992278492', {
+    'value' : '0.00',
+    'currency' : 'USD'
+  }]);
+  </script>
+  <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6038992278492&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" />
+  </noscript>
+  <!-- START TITLE -->
+  <title>Open Door Coworking | La Porte and Michigan City's FIRST Coworking Space</title>
+  <!-- END TITLE -->
 
-    <!-- START META, DESCRIPTION, KEYWORDS, AUTHOR -->
-    <meta name="description" content="Open Door Coworking is LaPorte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone." />
-    <meta name="keywords" content="coworking, laporte, indiana, freelancer, entrepreneurs, office space rental, office space for rent" />
-    <!-- END META, DESCRIPTION, KEYWORDS, AUTHOR -->
+  <!-- START META, DESCRIPTION, KEYWORDS, AUTHOR -->
+  <meta name="description" content="Open Door Coworking is LaPorte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone." />
+  <meta name="keywords" content="coworking, laporte, indiana, freelancer, entrepreneurs, office space rental, office space for rent" />
+  <!-- END META, DESCRIPTION, KEYWORDS, AUTHOR -->
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- START THEME STYLE -->
-    <link rel="stylesheet" type="text/css" href="css/normal.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/headhesive.css">
-    <link rel="stylesheet" type="text/css" href="css/lightbox.css">
-    <link href="css/animate.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- START THEME STYLE -->
+  <link rel="stylesheet" type="text/css" href="css/normal.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="css/headhesive.css">
+  <link rel="stylesheet" type="text/css" href="css/lightbox.css">
+  <link href="css/animate.css" rel="stylesheet">
 
-    <!-- END THEME STYLE -->
+  <!-- END THEME STYLE -->
 
-    <!-- START FONTELLO ICONS STYLESHEET -->
-    <link rel="stylesheet" type="text/css" href="css/fontello.css">
-    <link rel="stylesheet" type="text/css" href="css/fontello-ie7.css">
-    <!-- END FONTELLO ICONS STYLESHEET -->
+  <!-- START FONTELLO ICONS STYLESHEET -->
+  <link rel="stylesheet" type="text/css" href="css/fontello.css">
+  <link rel="stylesheet" type="text/css" href="css/fontello-ie7.css">
+  <!-- END FONTELLO ICONS STYLESHEET -->
 
-    <!-- START MAGNIFIC POPUP STYLESHEET -->
-    <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
-    <!-- END MAGNIFIC POPUP STYLESHEET -->
+  <!-- START MAGNIFIC POPUP STYLESHEET -->
+  <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
+  <!-- END MAGNIFIC POPUP STYLESHEET -->
 
-    <!-- LOAD GOOGLE FONT OPEN SANS -->
-    <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,300,400,600,700" rel="stylesheet" type="text/css">
-    <!-- END GOOGLE FONT OPEN SANS -->
+  <!-- LOAD GOOGLE FONT OPEN SANS -->
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,300,400,600,700" rel="stylesheet" type="text/css">
+  <!-- END GOOGLE FONT OPEN SANS -->
 
-    <!-- START AJAX WEBFONTS -->
-    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
-    <!-- END AJAX WEBFONTS -->
+  <!-- START AJAX WEBFONTS -->
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
+  <!-- END AJAX WEBFONTS -->
 
-    <!-- START MOBILE DETECT -->
-    <script>
-      if (/mobile/i.test(navigator.userAgent))
-        document.documentElement.className += ' w-mobile';
-    </script>
-    <!-- END MOBILE DETECT -->
+  <!-- START MOBILE DETECT -->
+  <script>
+  if (/mobile/i.test(navigator.userAgent))
+  document.documentElement.className += ' w-mobile';
+  </script>
+  <!-- END MOBILE DETECT -->
 
-    <!-- START FAVICON -->
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <!-- EDN FAVICON -->
+  <!-- START FAVICON -->
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <!-- EDN FAVICON -->
 
-    <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script><![endif]-->
-    <script type='application/ld+json'>
-      {
-        "@context": "http://schema.org",
-        "@type": "LocalBusiness",
-        "@id": "https://www.opendoorcoworking.com",
-        "name": "Open Door Coworking",
-        "url": "https://www.opendoorcoworking.com",
-        "sameAs" : [
-          "http://www.facebook.com/opendoorcoworking",
-          "http://www.twitter.com/opendoorcowork",
-          "http://www.yelp.com/biz/open-door-coworking-la-porte"
-          ],
-        "logo": "http://www.opendoorcoworking.com/images/opendoorcowork.png",
-        "description": "Open Door Coworking is La Porte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters. A coworking space is an alternative to traditional office space with a focus on creating a collaborative work community. Work. Together.",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "telephone": "+12195610219",
-          "contactType" : "customer service"
-        },
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress" : "1705 State St",
-          "addressLocality": "LaPorte",
-          "addressRegion": "Indiana",
-          "postalCode": "46350"
-        }
-      }
-    </script>
-    <script>
-      (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] ||
-        function() {
-          (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-      })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-      ga('create', 'UA-69195133-1', 'auto');
-      ga('send', 'pageview');
+  <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script><![endif]-->
+  <script type='application/ld+json'>
+  {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "@id": "https://www.opendoorcoworking.com",
+    "name": "Open Door Coworking",
+    "url": "https://www.opendoorcoworking.com",
+    "sameAs" : [
+      "http://www.facebook.com/opendoorcoworking",
+      "http://www.twitter.com/opendoorcowork",
+      "http://www.yelp.com/biz/open-door-coworking-la-porte"
+    ],
+    "logo": "http://www.opendoorcoworking.com/images/opendoorcowork.png",
+    "description": "Open Door Coworking is La Porte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters. A coworking space is an alternative to traditional office space with a focus on creating a collaborative work community. Work. Together.",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+12195610219",
+      "contactType" : "customer service"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress" : "1705 State St",
+      "addressLocality": "LaPorte",
+      "addressRegion": "Indiana",
+      "postalCode": "46350"
+    }
+  }
+  </script>
+  <script>
+  (function(i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] ||
+    function() {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+    m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+  ga('create', 'UA-69195133-1', 'auto');
+  ga('send', 'pageview');
 
-    </script>
-    <meta property="fb:admins" content="1821615255" />
-    <meta property="fb:app_id" content="1033170423401446" />
-    <meta content="Open Door Coworking" property="og:site_name">
-    <meta content="Open Door Coworking is LaPorte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone." property="og:description">
-    <meta content="http://www.opendoorcoworking.com/" property="og:url">
-    <meta content="http://www.opendoorcoworking.com/images/opendoor.png" property="og:image">
+  </script>
+  <meta property="fb:admins" content="1821615255" />
+  <meta property="fb:app_id" content="1033170423401446" />
+  <meta content="Open Door Coworking" property="og:site_name">
+  <meta content="Open Door Coworking is LaPorte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone." property="og:description">
+  <meta content="http://www.opendoorcoworking.com/" property="og:url">
+  <meta content="http://www.opendoorcoworking.com/images/opendoor.png" property="og:image">
 
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@opendoorcowork">
-    <meta name="twitter:creator" content="@jddoesdev">
-    <meta name="twitter:title" content="Open Door Coworking">
-    <meta name="twitter:url" content="http://www.opendoorcoworking.com/">
-    <meta name="twitter:description" content="Open Door Coworking is LaPorte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone.">
-    <meta name="twitter:image:src" content="http://www.opendoorcoworking.com/images/opendoor.png">
-  </head><!-- END HEAD -->
-  <body>
-    <!-- START BODY TAG -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@opendoorcowork">
+  <meta name="twitter:creator" content="@jddoesdev">
+  <meta name="twitter:title" content="Open Door Coworking">
+  <meta name="twitter:url" content="http://www.opendoorcoworking.com/">
+  <meta name="twitter:description" content="Open Door Coworking is LaPorte, Indiana's first coworking space for freelancers, entrepreneurs, and telecommuters to call home. Work independently; not alone.">
+  <meta name="twitter:image:src" content="http://www.opendoorcoworking.com/images/opendoor.png">
+</head><!-- END HEAD -->
+<body>
+  <!-- START BODY TAG -->
 
-    <!-- START HEADER -->
-    <!-- SCROLL DIV #boxscroll by nicescroll -->
+  <!-- START HEADER -->
+  <!-- SCROLL DIV #boxscroll by nicescroll -->
 
-    <div tabindex="1000" style="overflow-y: auto;" id="boxscroll">
+  <div tabindex="1000" style="overflow-y: auto;" id="boxscroll">
 
-      <!-- CHANGEABLE UNIQUE SECTOIN ID -->
-      <section id="home">
+    <!-- CHANGEABLE UNIQUE SECTOIN ID -->
+    <section id="home">
 
-        <!-- START FIXED HEADER DIV -->
-        <div class="banner">
-          <!-- START CONTAINER -->
-          <div class="w-container container">
-            <div class="w-row">
+      <!-- START FIXED HEADER DIV -->
+      <div class="banner">
+        <!-- START CONTAINER -->
+        <div class="w-container container">
+          <div class="w-row">
 
-              <!-- START COLUMN 3 -->
-              <div class="w-col w-col-2 logo">
-                <!-- START LOGO -->
-                <a href="#"><img src="images/opendoorcowork.png" alt="Open Door Coworking" onload="ga('send', 'event', 'page', 'load', 'Version <?php print $version; ?>');"></a>
-                <!-- END LOGO -->
-              </div><!-- END COLUMN 3 -->
+            <!-- START COLUMN 3 -->
+            <div class="w-col w-col-2 logo">
+              <!-- START LOGO -->
+              <a href="#"><img src="images/opendoorcowork.png" alt="Open Door Coworking" onload="ga('send', 'event', 'page', 'load', 'Version <?php print $version; ?>');"></a>
+              <!-- END LOGO -->
+            </div><!-- END COLUMN 3 -->
 
-              <!-- START COLUMN 9 -->
-              <div class="nav-col w-col w-col-10">
+            <!-- START COLUMN 9 -->
+            <div class="nav-col w-col w-col-10">
 
-                <!-- START NAVIGATION -->
-                <div class="w-nav navbar" data-collapse="medium" data-animation="default" data-duration="400" data-contain="1">
-                  <div class="w-container nav">
-                    <!-- START CONTAINER -->
+              <!-- START NAVIGATION -->
+              <div class="w-nav navbar" data-collapse="medium" data-animation="default" data-duration="400" data-contain="1">
+                <div class="w-container nav">
+                  <!-- START CONTAINER -->
 
-                    <!-- START NAVIGATION LINKS -->
-                    <nav class="w-nav-menu nav-menu" role="navigation">
+                  <!-- START NAVIGATION LINKS -->
+                  <nav class="w-nav-menu nav-menu" role="navigation">
 
-                      <a class="w-nav-link menu-li " href="#home" onclick="ga('send', 'event', 'menu', 'Click', 'Home');">HOME</a>
-                      <a class="w-nav-link menu-li" href="index.html#membership" onclick="ga('send', 'event', 'menu', 'Click', 'Membership');">MEMBERSHIP</a>
-                      <a class="w-nav-link menu-li" href="index.html#contact" onclick="ga('send', 'event', 'menu', 'Click', 'Contact');"> CONTACT </a>
-                      <a class="w-nav-link menu-li" href="http://goo.gl/forms/ook9usnqsn" target="_blank" onclick="ga('send', 'event', 'menu', 'Click', 'Tour');"> SCHEDULE TOUR </a>
-                      <a class="w-nav-link menu-li" href="/posts" onclick="ga('send', 'event', 'menu', 'Click', 'Blog');"> BLOG </a>
-                      <a class="w-nav-link menu-li" href="/posts/events" onclick="ga('send', 'event', 'menu', 'Click', 'Blog');"> EVENTS </a>
-                      <a class="w-nav-link menu-li social-nav" href="http://www.facebook.com/opendoorcoworking" onclick="ga('send', 'event', 'menu', 'Click', 'Facebook');"> <i class="facebookelegance-icons-"></i> </a>
-                      <a class="w-nav-link menu-li social-nav" href="http://www.twitter.com/opendoorcowork" onclick="ga('send', 'event', 'menu', 'Click', 'Twitter');"> <i class="twitter-birdelegance-icons-"></i> </a>
-                      <a class="w-nav-link menu-li social-nav" href="https://www.linkedin.com/company/open-door-coworking" onclick="ga('send', 'event', 'menu', 'Click', 'Linkedin');"> <i class="linkedinelegance-icons-"></i> </a>
+                    <a class="w-nav-link menu-li " href="#home" onclick="ga('send', 'event', 'menu', 'Click', 'Home');">HOME</a>
+                    <a class="w-nav-link menu-li" href="index.html#membership" onclick="ga('send', 'event', 'menu', 'Click', 'Membership');">MEMBERSHIP</a>
+                    <a class="w-nav-link menu-li" href="index.html#contact" onclick="ga('send', 'event', 'menu', 'Click', 'Contact');"> CONTACT </a>
+                    <a class="w-nav-link menu-li" href="http://goo.gl/forms/ook9usnqsn" target="_blank" onclick="ga('send', 'event', 'menu', 'Click', 'Tour');"> SCHEDULE TOUR </a>
+                    <a class="w-nav-link menu-li" href="/posts" onclick="ga('send', 'event', 'menu', 'Click', 'Blog');"> BLOG </a>
+                    <a class="w-nav-link menu-li" href="/posts/events" onclick="ga('send', 'event', 'menu', 'Click', 'Blog');"> EVENTS </a>
+                    <a class="w-nav-link menu-li social-nav" href="http://www.facebook.com/opendoorcoworking" onclick="ga('send', 'event', 'menu', 'Click', 'Facebook');"> <i class="facebookelegance-icons-"></i> </a>
+                    <a class="w-nav-link menu-li social-nav" href="http://www.twitter.com/opendoorcowork" onclick="ga('send', 'event', 'menu', 'Click', 'Twitter');"> <i class="twitter-birdelegance-icons-"></i> </a>
+                    <a class="w-nav-link menu-li social-nav" href="https://www.linkedin.com/company/open-door-coworking" onclick="ga('send', 'event', 'menu', 'Click', 'Linkedin');"> <i class="linkedinelegance-icons-"></i> </a>
 
-                    </nav>
-                    <!-- END NAVIGATION LINKS -->
+                  </nav>
+                  <!-- END NAVIGATION LINKS -->
 
-                    <!-- START MOBILE NAVIGATION BUTTON * DO NOT DELETE THIS DIV* -->
-                    <div class="w-nav-button">
-                      <div class="w-icon-nav-menu"></div>
-                    </div><!-- END MOBILE NAVIGATION BUTTON -->
+                  <!-- START MOBILE NAVIGATION BUTTON * DO NOT DELETE THIS DIV* -->
+                  <div class="w-nav-button">
+                    <div class="w-icon-nav-menu"></div>
+                  </div><!-- END MOBILE NAVIGATION BUTTON -->
 
-                  </div>
-                  <!-- END CONTAINER -->
                 </div>
-                <!-- END NAVIGATION -->
+                <!-- END CONTAINER -->
               </div>
-              <!-- END COLUMN 9 -->
+              <!-- END NAVIGATION -->
             </div>
-          </div>
-          <!-- END CONTAINER -->
-        </div>
-        <!-- END FIXED HEADER DIV -->
-      </section>
-      <!-- END SECTION -->
-      <!-- END HEADER -->
-
-      <div class="header-parallax" data-stellar-background-ratio="0.5">
-        <div class="slidersection">
-          <div class="overlay">
-            <div class="center fixed-content">
-              <div class="center-fix">
-                <h1 class="underline animated fadeInDown">OPEN <strong>DOOR</strong> COWORKING</h1>
-                <!-- <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 10px;">Work. <strong class="green">Together.</strong></h4> -->
-                <p class="define">
-                  <span class="bold green">co·work·ing</span>
-                  <?php print htmlentities("(kōˈwərkiNG)"); ?></br>
-                  <span class="italic">noun</span></br>
-                </p>
-                <p class="definition">
-                  the use of an office or other working environment by people who are self-employed or working for different employers, typically so as to share equipment, ideas, and knowledge.</br>
-                </p>
-                <p>
-                  The whole idea of coworking is to bring bright, creative people together and let the ideas collide in an altenative environment to traditional office space.
-                </p>
-                <p>
-                  Be more creative, grow your business faster, and have a better work-life balance.
-                </p>
-                <a class="button animated fadeInUp delay-1s first" href="index.html#learn" onclick="ga('send', 'event', 'button', 'Click', 'Learn');"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="http://goo.gl/forms/ook9usnqsn" target="_blank" onclick="ga('send', 'event', 'Button', 'Click', 'tour');">Schedule a Tour</a>
-              </div>
-            </div>
+            <!-- END COLUMN 9 -->
           </div>
         </div>
+        <!-- END CONTAINER -->
       </div>
+      <!-- END FIXED HEADER DIV -->
+    </section>
+    <!-- END SECTION -->
+    <!-- END HEADER -->
 
-      <!--///////////////////////////////////////////////////////
-
-      // End slider section
-
-      //////////////////////////////////////////////////////////-->
-
-      <div id="learn">
-        <div class="row-back">
-          <div class="w-container wrap">
-            <div class="center">
-              <h1 class="underline">WORK INDEPENDENTLY <span class="green">TOGETHER</span></h1>
-              <p>
-                <span class="green">Open Door Coworking</span> lets you get your business out of your home and into your very own workplace. Whether you're starting a business or working remotely for a company, you work better when you are able to concentrate on doing business.
+    <div class="header-parallax" data-stellar-background-ratio="0.5">
+      <div class="slidersection">
+        <div class="overlay">
+          <div class="center fixed-content">
+            <div class="center-fix">
+              <h1 class="underline animated fadeInDown">OPEN <strong>DOOR</strong> COWORKING</h1>
+              <!-- <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 10px;">Work. <strong class="green">Together.</strong></h4> -->
+              <p class="define">
+                <span class="bold green">co·work·ing</span>
+                <?php print htmlentities("(kōˈwərkiNG)"); ?></br>
+                <span class="italic">noun</span></br>
               </p>
+              <p class="definition">
+                the use of an office or other working environment by people who are self-employed or working for different employers, typically so as to share equipment, ideas, and knowledge.</br>
+              </p>
+              <p>
+                The whole idea of coworking is to bring bright, creative people together and let the ideas collide in an altenative environment to traditional office space.
+              </p>
+              <p>
+                Be more creative, grow your business faster, and have a better work-life balance.
+              </p>
+              <a class="button animated fadeInUp delay-1s first" href="index.html#learn" onclick="ga('send', 'event', 'button', 'Click', 'Learn');"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="http://goo.gl/forms/ook9usnqsn" target="_blank" onclick="ga('send', 'event', 'Button', 'Click', 'tour');">Schedule a Tour</a>
             </div>
-            <div class="w-col w-col-4  ">
-              <div class="icon-box">
-                <i class="fa fa-desktop"></i>
-                <h4 class="icons-heading">WORK</h4>
-                <p>
-                  A <strong>coworking space</strong> helps you separate your home life from your work life, increasing productivity and reducing "bad" distractions.
-                </p>
-              </div>
-            </div>
-            <div class="w-col w-col-4   delay-1s">
-              <div class="icon-box">
-                <i class="fa fa-lightbulb-o"></i>
-                <h4 class="icons-heading">INDEPENDENTLY</h4>
-                <p>
-                  When you're at a coworking space, you're in an evironment that's designed to let you do the best work you can and innovate with minimal distractions.  You get the best of both worlds:  Professional office space and autonomy to work how you want when you want.
-                </p>
-              </div>
-            </div>
-            <div class="w-col w-col-4   delay-05s">
-              <div class="icon-box">
-                <i class="fa fa-users"></i>
-                <h4 class="icons-heading">TOGETHER</h4>
-                <p>
-                  The coworking community is all about being independent together. Collaboration is easy when you're surrounded by great people.
-                </p>
-              </div>
-            </div>
-            <div class="clearfix"></div>
-            <h2>Still curious about what a coworking space is?</h2>
-            <a href="#contact" class="button" onclick="ga('send', 'event', 'button', 'Click', 'learn contact');">Ask us</a>
           </div>
         </div>
       </div>
     </div>
+
     <!--///////////////////////////////////////////////////////
 
-    // Pictures
+    // End slider section
 
     //////////////////////////////////////////////////////////-->
 
-    <div id="pictures" class="parallax-back"  data-stellar-background-ratio="0.5">
-      <div class="opcaity">
+    <div id="learn">
+      <div class="row-back">
         <div class="w-container wrap">
           <div class="center">
-            <h1 class="underline"> Look Inside Open Door Coworking </h1>
-            <a href="images/slider/cowork1.jpg" data-lightbox="opendoor"><img src="images/slider/cowork1.jpg" height="25%" width="25%" alt="a desk"></a>
-            <a href="images/slider/cowork2.jpg" data-lightbox="opendoor"><img src="images/slider/cowork2.jpg" height="25%" width="25%" alt="another desk"></a>
-            <a href="images/slider/cowork3.jpg" data-lightbox="opendoor"><img src="images/slider/cowork3.jpg" height="25%" width="25%" alt="conference room"></a>
-            <a href="images/slider/cowork4.jpg" data-lightbox="opendoor"><img src="images/slider/cowork4.jpg" height="25%" width="25%" alt="main entrance"></a>
-            <a href="images/slider/cowork5.jpg" data-lightbox="opendoor"><img src="images/slider/cowork5.jpg" height="25%" width="25%" alt="private office"></a>
+            <h1 class="underline">WORK INDEPENDENTLY <span class="green">TOGETHER</span></h1>
+            <p>
+              <span class="green">Open Door Coworking</span> lets you get your business out of your home and into your very own workplace. Whether you're starting a business or working remotely for a company, you work better when you are able to concentrate on doing business.
+            </p>
           </div>
+          <div class="w-col w-col-4  ">
+            <div class="icon-box">
+              <i class="fa fa-desktop"></i>
+              <h4 class="icons-heading">WORK</h4>
+              <p>
+                A <strong>coworking space</strong> helps you separate your home life from your work life, increasing productivity and reducing "bad" distractions.
+              </p>
+            </div>
+          </div>
+          <div class="w-col w-col-4   delay-1s">
+            <div class="icon-box">
+              <i class="fa fa-lightbulb-o"></i>
+              <h4 class="icons-heading">INDEPENDENTLY</h4>
+              <p>
+                When you're at a coworking space, you're in an evironment that's designed to let you do the best work you can and innovate with minimal distractions.  You get the best of both worlds:  Professional office space and autonomy to work how you want when you want.
+              </p>
+            </div>
+          </div>
+          <div class="w-col w-col-4   delay-05s">
+            <div class="icon-box">
+              <i class="fa fa-users"></i>
+              <h4 class="icons-heading">TOGETHER</h4>
+              <p>
+                The coworking community is all about being independent together. Collaboration is easy when you're surrounded by great people.
+              </p>
+            </div>
+          </div>
+          <div class="clearfix"></div>
+          <h2>Still curious about what a coworking space is?</h2>
+          <a href="#contact" class="button" onclick="ga('send', 'event', 'button', 'Click', 'learn contact');">Ask us</a>
         </div>
       </div>
     </div>
+  </div>
+  <!--///////////////////////////////////////////////////////
 
-    <!--///////////////////////////////////////////////////////
+  // Pictures
 
-    // Our-plan section
+  //////////////////////////////////////////////////////////-->
 
-    //////////////////////////////////////////////////////////-->
-
-    <div id="membership" class="row-gree">
-      <div class="w-container wrap-normal">
+  <div id="pictures" class="parallax-back"  data-stellar-background-ratio="0.5">
+    <div class="opcaity">
+      <div class="w-container wrap">
         <div class="center">
-          <h1 class="underline">WHAT COMES WITH A MEMBERSHIP?</h1>
-          <p>
-            Every membership comes with a few things to make it easier for you to <strongz>work better</strong>
+          <h1 class="underline"> Look Inside Open Door Coworking </h1>
+          <a href="images/slider/cowork1.jpg" data-lightbox="opendoor"><img src="images/slider/cowork1.jpg" height="25%" width="25%" alt="a desk"></a>
+          <a href="images/slider/cowork2.jpg" data-lightbox="opendoor"><img src="images/slider/cowork2.jpg" height="25%" width="25%" alt="another desk"></a>
+          <a href="images/slider/cowork3.jpg" data-lightbox="opendoor"><img src="images/slider/cowork3.jpg" height="25%" width="25%" alt="conference room"></a>
+          <a href="images/slider/cowork4.jpg" data-lightbox="opendoor"><img src="images/slider/cowork4.jpg" height="25%" width="25%" alt="main entrance"></a>
+          <a href="images/slider/cowork5.jpg" data-lightbox="opendoor"><img src="images/slider/cowork5.jpg" height="25%" width="25%" alt="private office"></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--///////////////////////////////////////////////////////
+
+  // Our-plan section
+
+  //////////////////////////////////////////////////////////-->
+
+  <div id="membership" class="row-gree">
+    <div class="w-container wrap-normal">
+      <div class="center">
+        <h1 class="underline">WHAT COMES WITH A MEMBERSHIP?</h1>
+        <p>
+          Every membership comes with a few things to make it easier for you to <strongz>work better</strong>
           </p>
           <ul class="w-col-6 w-col left">
             <li>
@@ -426,46 +426,46 @@
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2983.212838619102!2d-86.73299968416507!3d41.60790897924461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8811126e3a8b8933%3A0xb288fc420895174!2sOpen+Door+Coworking!5e0!3m2!1sen!2sus!4v1447384166381" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div><!--///////////////////////////////////////////////////////
 
-    // End Contact section
+      // End Contact section
 
-    //////////////////////////////////////////////////////////-->
+      //////////////////////////////////////////////////////////-->
 
-    <!--///////////////////////////////////////////////////////
+      <!--///////////////////////////////////////////////////////
 
-    // Footer section
+      // Footer section
 
-    //////////////////////////////////////////////////////////-->
+      //////////////////////////////////////////////////////////-->
 
-    <div class="footer row-back">
-      <div class="w-container wrap-normal center">
-        © <strong>Open Door Coworking</strong> 2015 <a href="privacy.php" target="_blank">Privacy Policy</a>
+      <div class="footer row-back">
+        <div class="w-container wrap-normal center">
+          © <strong>Open Door Coworking</strong> 2015 <a href="privacy.php" target="_blank">Privacy Policy</a>
+        </div>
       </div>
-    </div>
-    <!--///////////////////////////////////////////////////////
+      <!--///////////////////////////////////////////////////////
 
-    // End Footer section
+      // End Footer section
 
-    //////////////////////////////////////////////////////////-->
+      //////////////////////////////////////////////////////////-->
 
-    <!-- START JQUERY PLUGINS LOAD -->
-    <script src="js/jquery.js"></script>
-    <script src="js/modernizr.js"></script>
-    <script src="js/normal.js"></script>
-    <script src="js/carousels.js"></script>
-    <script src="js/jquery.stellar.js"></script>
-    <script src="js/classie.js"></script>
-    <script src="js/jquery.mixitup.js"></script>
-    <script src="js/testimonials.js"></script>
-    <!-- <script src="js/jquery.nicescroll.js"></script> -->
-    <script src="js/rotating-text.js"></script>
-    <script src="js/jquery.magnific-popup.js"></script>
-    <script src="js/headhesive.min.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/contact.js"></script>
-    <script src="js/lightbox.min.js"></script>
-    <script src="js/scripts.js"></script>
+      <!-- START JQUERY PLUGINS LOAD -->
+      <script src="js/jquery.js"></script>
+      <script src="js/modernizr.js"></script>
+      <script src="js/normal.js"></script>
+      <script src="js/carousels.js"></script>
+      <script src="js/jquery.stellar.js"></script>
+      <script src="js/classie.js"></script>
+      <script src="js/jquery.mixitup.js"></script>
+      <script src="js/testimonials.js"></script>
+      <!-- <script src="js/jquery.nicescroll.js"></script> -->
+      <script src="js/rotating-text.js"></script>
+      <script src="js/jquery.magnific-popup.js"></script>
+      <script src="js/headhesive.min.js"></script>
+      <script src="js/waypoints.min.js"></script>
+      <script src="js/contact.js"></script>
+      <script src="js/lightbox.min.js"></script>
+      <script src="js/scripts.js"></script>
 
-    <!-- END JQUERY PLUGINS LOAD -->
+      <!-- END JQUERY PLUGINS LOAD -->
 
-  </body>
-</html>
+    </body>
+    </html>
