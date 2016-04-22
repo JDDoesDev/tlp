@@ -27,7 +27,7 @@ RewriteRule ^(.*)/$ $1.php [L]
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule .*[^/]$ $0/ [L,R=301]
 
-
+Options Indexes FollowSymLinks
 Redirect 301 /blog /posts
 
 ## EXPIRES CACHING ##
