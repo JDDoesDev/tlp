@@ -207,6 +207,9 @@ h6 {
 .header-parallax {
   height: 800px;
 }
+.header-parallax.not-front {
+  height: 400px;
+}
 
 .header-parallax p {
   font-size: 1.5em;
@@ -483,6 +486,9 @@ h1.underline-dotted,h2.underline-dotted,h3.underline-dotted,h4.underline-dotted 
   width: 100%;
   top: 80px;
   height: 800px;
+}
+.not-front .overlay {
+  height: 400px;
 }
 
 .fixed-content {
