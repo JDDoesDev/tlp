@@ -32,7 +32,7 @@
         </div>
         <div class="w-form">
           <div class="form-messages"></div>
-          <form action="contact.php" method="post" id="ajax-contact">
+          <form action="/contact.php" method="post" id="ajax-contact">
             <label for="name"></label>
             <input class="w-input" type="text" id="name" placeholder="Enter your name" name="cf_name">
             <label for="email"></label>
