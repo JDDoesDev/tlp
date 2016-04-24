@@ -1183,3 +1183,12 @@ figcaption {
 a.button:hover {
   color: #ebebeb;
 }
+
+.question {
+  padding: 1em .5em;
+  font-size: 2em;
+}
+
+.answer {
+  padding: 0 .5em;
+}
