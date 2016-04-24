@@ -1,4 +1,4 @@
-
+<?php $title = "Contact Us | Open Door Coworking LaPorte County's Coworking Space"; ?>
 <?php include 'includes/header.inc'; ?>
 <div class="header-parallax not-front" data-stellar-background-ratio="0.5">
   <div class="slidersection">

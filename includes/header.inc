@@ -26,7 +26,8 @@
   <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6038992278492&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" />
   </noscript>
   <!-- START TITLE -->
-  <title>Open Door Coworking | La Porte and Michigan City's FIRST Coworking Space</title>
+  <?php $page_title = $title ? $title : "Open Door Coworking | La Porte and Michigan City's Only Coworking Space"; ?>
+  <title><?= $page_title; ?></title>
   <!-- END TITLE -->
 
   <!-- START META, DESCRIPTION, KEYWORDS, AUTHOR -->
