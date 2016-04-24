@@ -6,7 +6,7 @@
           <div class="center fixed-content">
             <div class="center-fix">
               <h1 class="underline animated fadeInDown">YOU <strong>GOT</strong> QUESTIONS?</h1>
-              <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 10px;">We've got <strong class="green">anwsers.</strong></h4>
+              <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 10px;">We've got <strong class="green">answers.</strong></h4>
             </div>
           </div>
         </div>
