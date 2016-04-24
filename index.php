@@ -72,7 +72,7 @@
           </div>
           <div class="clearfix"></div>
           <h2>Still curious about what a coworking space is?</h2>
-          <a href="#contact" class="button" onclick="ga('send', 'event', 'button', 'Click', 'learn contact');">Ask us</a>
+          <a href="/contact-form/" class="button" onclick="ga('send', 'event', 'button', 'Click', 'learn contact');">Ask us</a>
         </div>
       </div>
     </div>
