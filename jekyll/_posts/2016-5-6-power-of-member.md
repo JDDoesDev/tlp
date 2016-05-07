@@ -1,54 +1,31 @@
 ---
 layout: post
-title:  "What Exactly is 'Coworking'?"
-date:   2015-12-30 07:00:00 -0600
+title:  "The Power of a Member"
+date:   2016-5-6 07:00:00 -0600
 categories: coworking
 author: "J.D. Flynn"
-image: "//www.opendoorcoworking.com/images/coworking-slap.jpg"
-imagealt: "Batman gets it"
-thumbnail: "//www.opendoorcoworking.com/images/thumb/coworking-slap_thumb.jpg"
-keywords: "coworking space, office space, coworking office, what is coworking"
+keywords: "coworking space, office space, members, membership"
 ---
-The most common response that I get when I tell people, "Hey, people, I just opened a coworking space for La Porte County!" is "That's awesome!  Um... what's a coworking space?"
+When you think about the word 'membership' it's easy to picture an exclusive club or a fashionable jacket for only members, but for coworking space managers and owners, it is holds a completely different meaning.
 
-While it is not entirely unexpected, it does sadden me to a point that something as amazing as coworking is such a foreign concept to the majority of the population.  An informal survey done by another coworking space owner found that roughly 10% of adults questioned had heard of a coworking space.  Of that 10%, only 3-4 people actually knew what a coworking space was or had a vague grasp of the concept.  The silver lining?  Most people wanted to know more about coworking spaces after they were told what it is.
+To us, our members are our reason for being.  Our members are evidence that we're doing something beneficial.  Our members are people who have chosen to work side by side with us.  Our members are our greatest assets.
 
-So, what is coworking?  As the [front page](/index.html) of the site (copied from the Google definition) puts it:
+## The Power Of A Member is to Inspire
 
-<div class="center">
-  Coworking is the use of an office or other working environment by people who are self-employed or working for different employers, typically so as to share equipment, ideas, and knowledge.
-</div>
+When I first opened Open Door Coworking, it took me several months before I got my first bite.  It was a rough several months of me walking into the space every day, making my coffee, sitting at my desk in a big, empty office, and working through the day before attending events or get-togethers that might spark some interest in someone to come join up.  I had set a hard deadline for myself that if I didn't have a member by March 1, 2016, I was going to close the doors and consider it a failed endeavor.  The night of Valentine's Day I got a call on my work line at about 7:00 PM.  Thinking it was another telemarketer or other spammy industry, I let it go to voicemail.
 
-## But what exactly does this mean and why is it even a thing?
+When I listened to the voicemail it was an actual person from my actual area interested in actual office space and to become a member of my actual coworking space.  The prospect of having a member was enough to both thrill me and terrify me.  He wanted to meet as soon as possible and he was interested in my private office space.  After a few brief phone conversations, he came in, checked it out, and was ready to sign on.  The only problem was that I had never been there before.  It seemed to me that I would never find a member so I never prepared myself.  Thankfully, he was patient with me while I worked out the kinks in my onboarding process, and he continues to renew his membership monthly.
 
-Well, if coworking is  sharing ideas, equipment, and knowledge while working, then a coworking space is a location to facilitate coworking.  Sounds good, right?  Right.
+If it wasn't for him, Open Door Coworking would have been shut and locked by now.
 
-Coworking spaces come in all shapes, sizes, and directions.  Some are _huge_ with a ton of funding from sponsorships and grants, while some are small and modest coming from one or two people with a vision to bring a new style of working and thinking to their community.  Open Door Coworking definitely falls into the second category with no sponsorships or outside funding. Just a guy with a dream to bring something different and wonderful to his community.
+##  The Power Of A Member is to Challenge
 
-My goal for Open Door Coworking is to give you, the people of La Porte, Michigan City, and the rest of the county, a chance to get out of your houses or coffee shops.  I want to make everything necessary for a budding entrepreneur or freelancer to succeed be within reach.  I want telecommuters to be able to separate their home lives from their work lives without having to sacrifice independence.  I want to build a community within our community of talented, smart, like-minded people together and watch the ideas form.
+Two members does not a coworking space make.  I elected to work at a reserved desk in the open coworking area from the time I opened up.  The benefits of this were twofold, prospective members could see what a desk in use looks like, and I would be able to keep myself in great company once I got a few more butts in the seats.  It was several weeks again before I got my second member.  He found me through a Facebook post promoting a custom tee shirt I bought a local shop and decided that he wanted to check it out.
 
-## So, it's not just a shared office?
+When you meet with a prospective member, it's a sort of interview process.  What do you do?  Where did you hear about Open Door?  What are your needs?  Et cetera.  But, the interview goes both ways.  I'm not just asking someone to join a coworking space.  I'm asking them to join me.  I'm asking them to consider working next to me.  I'm asking them to accept me as a coworker.  Sometimes, there are unavoidable personality conflicts, but more often than not, I find that I'm challenged to be a better person to make that person want to sit next to me many times a week and work with me.
 
-Definitely not.  The entire coworking community and mentality is founded on the belief that people work better together.  Amazing things happen when you get the right mix of professionals in a room together.  A common misconception is that coworking spaces are only for one type of professional.  People assume that only technology related fields thrive in coworking spaces, but I've seen health professionals, accountants, authors, bloggers, and insurance companies thrive in coworking spaces.  Social and professional networks grow, productivity increases, and members are able to actually communicate with real human people.  Before I opened Open Door Coworking, my daily conversations were with my cat.  While he's a nice guy, I think he's a bit of a yes-man and way too agreeable with every idea I had.
+## The Power Of A Member is to...
 
-The difference between shared office space and a coworking space is that the former usually means come rent an office, use the conference room, and stay to yourself.  The latter is an invitation to join the community.  The amenities are nice, but the real value is in the people.
+The list can go on forever.  Without the members of coworking spaces, the facilitators and owners are doing nothing more than sitting in large, empty spaces wishing they had someone to talk to.  Without the members, the community wouldn't thrive and we would just be peddling cheap office space like a landlord and not trying to build relationships.
 
-## Why should I join a coworking space instead of staying home or working from [insert go-to workplace here]?
-
-A coworking space empowers you to be able to, as a freelancer or budding entrepreneur, say "I'm heading to the office!" or to invite clients to an actual conference room that isn't in your kitchen or the middle of a crowded bistro.
-
-A coworking space helps you become more creative by allowing you to bounce ideas off of your coworkers or tap resources that you wouldn't be able to find elsewhere without an appointment.
-
-A coworking space takes care of the utilities, internet, and at Open Door, the coffee and water.
-
-A coworking space costs a fraction of what a traditional office would cost with more benefits to a growing business than a traditional office.
-
-A coworking space, at least Open Door Coworking, doesn't lock you into a long term lease so if your business doesn't do as well as you had hoped, you aren't stuck, or, even better, if your business outgrows the coworking space, you're free to move on to bigger, better things!
-
-A coworking space distances you from home so those tempting televisions, video games, and beds don't keep you from doing the work you need to do.
-
-## What are you waiting for?
-
-A coworking space isn't for everyone and I'm not here to claim that joining one will guarantee success, but if you're like me and you find that you have a hard time working in places that aren't offices or you want to be surrounded by other professionals, then a coworking space may be for you.  If you want to give it a try, then [sign up for a trial day](http://goo.gl/forms/ook9usnqsn) and see for yourself.
-
-What do you think?  Did I leave any questions unanswered, did I explain it clearly, or did I just make it more confusing?  Let me know in the comments!
+Thank you, to all my members, current and future.  Without you, I wouldn't be here.  You all make this endeavor worth attempting and keep me going.  Thank you.
