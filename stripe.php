@@ -1,4 +1,4 @@
-<?php require_once('./config.php'); ?>
+<?php require_once('config.php'); ?>
 
 <form action="charge.php" method="post">
   <select name="plan" id="plan">
