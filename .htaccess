@@ -1,32 +1,31 @@
 RewriteEngine On
-RewriteBase /
 
-# Ensure www on all URLs.
-RewriteCond %{HTTP_HOST} !^www\. [NC]
-RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [L,R=302]
+RewriteCond %{HTTP:X-Forwarded-Proto} =http
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
-# Ensure we are using HTTPS version of the site.
-RewriteCond %{HTTPS} !on
-RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=302]
+# Force WWW prefix
+ <IfModule mod_rewrite.c>
+     RewriteEngine On
+     RewriteCond %{HTTPS} !=on
+     RewriteCond %{HTTP_HOST} !^www\. [NC]
+     RewriteCond %{SERVER_ADDR} !=127.0.0.1
+     RewriteCond %{SERVER_ADDR} !=::1
+     RewriteRule ^ %{ENV:PROTO}://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+ </IfModule>
 
-RewriteCond %{THE_REQUEST} \s/*(.*?)/index\.php [NC]
-RewriteRule ^ %1/ [R=302,L]
+# Remove .php extension
+RewriteCond %{THE_REQUEST} ^GET\ /[^?\s]+\.php
+RewriteRule (.*)\.php$ /$1/ [L,R=301]
 
-RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
-RewriteRule ^ /%1/ [R=302,L]
-
-# Ensure all URLs have a trailing slash.
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^[^.]*?[^/.]$ %{REQUEST_URI}/ [L,R=302]
-
-# Remove all .php extensions without interfering with .js or .css.
-RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule ^([^.]+?)/?$ $1.php [L]
-
-# Remove index from url.
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^([^.]+?)/?$ index.php?$1 [L,QSA]
+RewriteCond %{REQUEST_URI} ^/(.+)/$
+RewriteCond %{DOCUMENT_ROOT}/%1.php -f
+RewriteRule ^(.*)/$ $1.php [L]
+
+# Force trailing slash
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule .*[^/]$ $0/ [L,R=301]
 
 Redirect 301 /blog /posts
 
