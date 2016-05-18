@@ -1,6 +1,6 @@
 <?php require_once('config.php'); ?>
 
-<form action="charge.php" method="post">
+<form action="/charge.php" method="post">
   <select name="plan" id="plan">
     <option value="">--- Select a plan ---</option>
     <option value="hotdesk" data-price="100">Hotdesk</option>
@@ -19,7 +19,7 @@
           data-locale="auto"></script>
 </form>
 
-<script src="js/jquery.js"></script>
+<script src="/js/jquery.js"></script>
 
 <script>
   $(function () {
@@ -37,7 +37,7 @@
       console.log(data);
       $.ajax({
         dataType: "json",
-        url : "./validcoupon.php",
+        url : "/validcoupon.php",
         type: "post",
         data: data,
         success: function(data) {
