@@ -22,6 +22,7 @@ layout: default
       "addressCountry": "United States"
     }
   },
+  "url" : "{{ page.eventurl }}",
   "offers": {
     "@type": "Offer",
     "price": "{% if page.price %} {{ page.price }} {% else %} 0 {% endif %}"{% if page.eventurl %} , "url" : "{{ page.eventurl }}" {% endif %}

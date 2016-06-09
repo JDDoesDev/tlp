@@ -1,7 +1,7 @@
 ---
 layout: event
 name:  "Technically La Porte Monthly Meetup"
-date:   2016-6-1 07:00:00 -0600
+date:   2016-6-2 07:00:00 -0600
 startdate: 2016-6-20 09:00:00 -0600
 categories: events
 author: "J.D. Flynn"
