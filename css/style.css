@@ -997,6 +997,9 @@ Waypoints
   .header-parallax h1 {
     font-size: 2em;
   }
+  .header-parallax h2 {
+    font-size: 1.3em;
+  }
   .header-parallax p {
     font-size: 1em;
   }
