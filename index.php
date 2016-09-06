@@ -6,7 +6,7 @@
           <div class="center fixed-content">
             <div class="center-fix">
               <h1 class="underline animated fadeInDown">OPEN <strong>DOOR</strong> COWORKING</h1>
-              <h2 class="animated fadeInUp delay-05s" style="margin-bottom: 10px;"> La Porte County's First and Only Coworking Space</h2>
+              <h2 class="animated fadeInUp delay-05s" style="margin-bottom: 10px;"> Thank you, La Porte, but Open Door has closed permanently.</h2>
               <p class="define">
                 <span class="bold green">co·work·ing</span>
                 <?php print htmlentities("(kōˈwərkiNG)"); ?></br>

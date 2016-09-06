@@ -142,14 +142,14 @@
                   <nav class="w-nav-menu nav-menu" role="navigation">
 
                     <a class="w-nav-link menu-li " href="/" onclick="ga('send', 'event', 'menu', 'Click', 'Home');">HOME</a>
-                    <a class="w-nav-link menu-li" href="/membership/" onclick="ga('send', 'event', 'menu', 'Click', 'Membership');">MEMBERSHIP</a>
-                    <a class="w-nav-link menu-li" href="/contact-form/" onclick="ga('send', 'event', 'menu', 'Click', 'Contact');"> CONTACT </a>
+                    <!-- <a class="w-nav-link menu-li" href="/membership/" onclick="ga('send', 'event', 'menu', 'Click', 'Membership');">MEMBERSHIP</a> -->
+                    <!-- <a class="w-nav-link menu-li" href="/contact-form/" onclick="ga('send', 'event', 'menu', 'Click', 'Contact');"> CONTACT </a> -->
                     <a class="w-nav-link menu-li" href="/faqs/" target="_blank" onclick="ga('send', 'event', 'menu', 'Click', 'Faqs');"> FAQs </a>
                     <a class="w-nav-link menu-li" href="/posts" onclick="ga('send', 'event', 'menu', 'Click', 'Blog');"> BLOG </a>
                     <a class="w-nav-link menu-li" href="/posts/events" onclick="ga('send', 'event', 'menu', 'Click', 'Blog');"> EVENTS </a>
-                    <a class="w-nav-link menu-li social-nav" href="http://www.facebook.com/opendoorcoworking" onclick="ga('send', 'event', 'menu', 'Click', 'Facebook');"> <i class="facebookelegance-icons-"></i> </a>
-                    <a class="w-nav-link menu-li social-nav" href="http://www.twitter.com/opendoorcowork" onclick="ga('send', 'event', 'menu', 'Click', 'Twitter');"> <i class="twitter-birdelegance-icons-"></i> </a>
-                    <a class="w-nav-link menu-li social-nav" href="https://www.linkedin.com/company/open-door-coworking" onclick="ga('send', 'event', 'menu', 'Click', 'Linkedin');"> <i class="linkedinelegance-icons-"></i> </a>
+                    <!-- <a class="w-nav-link menu-li social-nav" href="http://www.facebook.com/opendoorcoworking" onclick="ga('send', 'event', 'menu', 'Click', 'Facebook');"> <i class="facebookelegance-icons-"></i> </a> -->
+                    <!-- <a class="w-nav-link menu-li social-nav" href="http://www.twitter.com/opendoorcowork" onclick="ga('send', 'event', 'menu', 'Click', 'Twitter');"> <i class="twitter-birdelegance-icons-"></i> </a> -->
+                    <!-- <a class="w-nav-link menu-li social-nav" href="https://www.linkedin.com/company/open-door-coworking" onclick="ga('send', 'event', 'menu', 'Click', 'Linkedin');"> <i class="linkedinelegance-icons-"></i> </a> -->
 
                   </nav>
                   <!-- END NAVIGATION LINKS -->
