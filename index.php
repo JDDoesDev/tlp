@@ -21,7 +21,7 @@
               <p>
                 Be more creative, grow your business faster, and have a better work-life balance.
               </p>
-              <a class="button animated fadeInUp delay-1s first" href="#learn" onclick="ga('send', 'event', 'button', 'Click', 'Learn');"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="http://goo.gl/forms/ook9usnqsn" target="_blank" onclick="ga('send', 'event', 'Button', 'Click', 'tour');">Schedule a Tour</a>
+              <!-- <a class="button animated fadeInUp delay-1s first" href="#learn" onclick="ga('send', 'event', 'button', 'Click', 'Learn');"><span><i class="cogelegance-icons-"></i></span>Learn More</a><a class="button border animated fadeInUp delay-1s" href="http://goo.gl/forms/ook9usnqsn" target="_blank" onclick="ga('send', 'event', 'Button', 'Click', 'tour');">Schedule a Tour</a> -->
             </div>
           </div>
         </div>

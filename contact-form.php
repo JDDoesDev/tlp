@@ -30,7 +30,7 @@
           <i class="twitter-birdelegance-icons-"></i>
           <i class="linkedinelegance-icons-"></i>
         </div>
-        <div class="w-form">
+        <!-- <div class="w-form">
           <div class="form-messages"></div>
           <form action="/contact.php" method="post" id="ajax-contact">
             <label for="name"></label>
@@ -40,7 +40,7 @@
             <label for="message"></label>
             <textarea class="w-input message" placeholder="Enter your Message Here" id="message" name="cf_message"></textarea>
             <br>
-            <input type="hidden" name="page_version" value="page <?php print $version; ?>">
+            <input type="hidden" name="page_version" value="page">
             <input class="button medium" type="submit" value="Send" onclick="ga('send', 'event', 'contact', 'Click', 'Contact Submit');">
           </form>
           <div class="w-form-done">
@@ -53,7 +53,7 @@
               Oops! Something went wrong while submitting the form :(
             </p>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
