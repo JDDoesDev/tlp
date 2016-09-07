@@ -19,7 +19,7 @@
   <div class="row-back"  data-stellar-background-ratio="0.5">
     <div class="w-container wrap">
       <div class="center">
-        <h1 class="underline">GET IN TOUCH</h1>
+        <!-- <h1 class="underline">GET IN TOUCH</h1>
         <p>
           Are you ready to schedule your tour of coworking at <strong>OPEN DOOR COWORKING</strong> or do you have other questions?
           <br/>
@@ -29,7 +29,7 @@
           <i class="facebookelegance-icons-"></i>
           <i class="twitter-birdelegance-icons-"></i>
           <i class="linkedinelegance-icons-"></i>
-        </div>
+        </div> -->
         <!-- <div class="w-form">
           <div class="form-messages"></div>
           <form action="/contact.php" method="post" id="ajax-contact">
